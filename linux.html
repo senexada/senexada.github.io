@@ -1,0 +1,64 @@
+<head profile="http://gmpg.org/xfn/11">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta>
+  <link rel='shortcut icon' href='favicon.ico' />
+    <title>Linux Tidbits</title>
+    <style type="text/css" media="screen">
+      ul {
+        line-height: 1.6;
+      }
+         
+    </style>
+</head>
+
+<body>
+
+<h2>Gnuplot</h2>
+
+<h3>Code snippets</h3>
+<pre>
+  # Make legend invisible, add title, and plot two series on same graph,
+  # the first with filled circles (pt 7), radius from 3rd column, green color,
+  # the second only certain lines with open squares (pt 4), radius from 6th col
+  # divided by 1000, red color.
+  set key off;
+  set title "velocity";
+  plot "file.txt" using 1:2:3 with points pt 7 ps variable lt rgb "forest-green",
+        "< awk '/speciallines/ {print $0}' file.txt" using 4:5:($6/1000) with points pt 4 ps variable lt rgb "red"
+
+  # To plot from command line echo a string (multi commands ok if separated by ;)
+  # to gnuplot -persist
+  echo "plot ..." | gnuplot -persist
+
+  # Some abbreviations:
+  # using = which cols to use {1, 1:2, 1:2:3, ...}
+  # with  = what to plot {points, linespoints, impulses, ...}
+  # pt    = point type {0, 1, ...} (see chart below for int->shape)
+  # ps    = point size [0,N]. Floats allowed. Proportional to radius. Can be variable.
+  # lt    = line type. For some reason this influences color. Provide integer or 'rgb "green"' (etc)
+
+</pre>
+
+<h3>Links</h3>
+<ul>
+  <li><a href="http://gnuplot.sourceforge.net/demo/pointsize.html">2D plot</a>
+    with variable size or color (code + screenshots)</li>
+  <li><a href="http://www.gnuplotting.org/plotting-data/">Line graphs</a>
+    with error bars (code + screenshots)</li>
+  <li><a href="http://gnuplot.sourceforge.net/demo/rainbow.html">Rainbox color</a>
+    sample (code + screenshot)</li>
+  <li><a href="http://www.gnuplot.info/docs_4.0/gpcard.pdf">Condensed PDF</a>
+    reference (few examples, not very good, but might help in niche cases)</li>
+</ul>
+
+<h3>Color name and point types</h3>
+<img width="1024" height="768" src="http://www.ss.scphys.kyoto-u.ac.jp/person/yonezawa/contents/program/gnuplot/img/colorname-list2.png"/>
+
+<br/>
+Other links if the above image doesn't load:
+<a href="http://stelweb.asu.cas.cz/~nemeth/work/stuff/gnuplot/gnuplot-line-and-point-types-bw.png">
+Line and point types</a>,
+<a href="http://ryukyu.astr.tohoku.ac.jp/pukiwiki/index.php?plugin=attach&refer=Members%2Fchinone%2F%B3%D0%BD%F1%2FGnuplot&openfile=colorsnames.png">colors</a>
+
+
+
+</body>

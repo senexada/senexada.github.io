@@ -1,0 +1,41 @@
+<head profile="http://gmpg.org/xfn/11">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta>
+  <link rel='shortcut icon' href='favicon.ico' />
+    <title>Math Tidbits</title>
+    <style type="text/css" media="screen">
+      ul {
+        line-height: 1.6;
+      }
+         
+    </style>
+</head>
+
+<body>
+
+<h2>Gaussian</h2>
+
+Say you have a sum of N IID random variables, with each sample having mean 1.
+For various values of N and stdev, the probability that a run of N days will have
+negative value is:
+
+<pre>
+|---------+--------+---------+---------+---------+---------+----------|
+|  sharpe | 5 days | 10 days | 20 days | 40 days | 60 days | 80 days  |
+|---------+--------+---------+---------+---------+---------+----------|
+|  0.1    | 0.412  | 0.376   | 0.327   | 0.264   | 0.219   | 0.186    |
+|  0.15   | 0.369  | 0.318   | 0.251   | 0.171   | 0.123   | 0.090    |
+|  0.2    | 0.327  | 0.264   | 0.186   | 0.103   | 0.061   | 0.037    |
+|  0.25   | 0.288  | 0.215   | 0.132   | 0.057   | 0.026   | 0.013    |
+|  0.3    | 0.251  | 0.171   | 0.090   | 0.029   | 0.010   | 0.004    |
+|  0.4    | 0.186  | 0.103   | 0.037   | 0.006   | 0.001   | 0.000    |
+|  0.5    | 0.132  | 0.057   | 0.013   | 0.001   | 0.000   | 0.000    |
+|---------+--------+---------+---------+---------+---------+----------|
+</pre>
+
+Old school Gaussian cdf chart:
+<img src="http://f.hypotheses.org/wp-content/blogs.dir/253/files/2013/10/Capture-d%E2%80%99e%CC%81cran-2013-10-15-a%CC%80-14.22.40.png"/>
+
+
+
+
+</body>

@@ -60,6 +60,13 @@ Decrypt:
   # ps    = point size [0,N]. Floats allowed. Proportional to radius. Can be variable.
   # lt    = line type. For some reason this influences color. Provide integer or 'rgb "green"' (etc)
 
+  # To make a bigger plot window with two subplots (one above the other):
+  set terminal qt size 700,700
+  set multiplot layout 2,1
+  plot "foo" using 1:2
+  plot "foo2" using 1:2 axes x1y2
+  unset multiplot
+
 </pre>
 
 <h3>Links</h3>

@@ -47,4 +47,20 @@
         margin-right: 15px;
         color: #ffb618;
       }
- 
+      table, th, td {
+        border-collapse: collapse;
+        #border: 1px solid black;
+        border-bottom: 1px solid #ddd;
+        padding: 5px;
+        font-size: 14px;
+      }
+      #tr:nth-child(even) {
+      #  background-color: #e3e3f3;
+      #}
+      table {
+        width: 100%;
+      }
+      .tableheader {
+        font-weight: bold;
+      }
+

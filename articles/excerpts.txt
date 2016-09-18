@@ -1,0 +1,658 @@
+\documentclass{memoir}
+\usepackage[compact]{titlesec}
+\titlespacing{\chapter}{0pt}{0pt}{1cm}
+\renewcommand{\chaptername}{}
+\renewcommand{\thechapter}{}
+\title{The Brown Reader}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{10pt plus 2pt minus 2pt}
+\newcommand{\mysource}[2]{\begin{flushright}\textsc{#1} \emph{#2}\end{flushright}}
+\newcommand{\firstword}[1]{{\huge \textsc{#1}}}
+\begin{document}
+\maketitle
+\frontmatter
+\vspace*{\fill}
+\begin{quote}
+{\huge \textsc{Certainly}} the Art of Writing is the most miraculous of all things man has devised. Odin's \emph{Runes} were the first form of the work of a Hero; \emph{Books}, written words, are still miraculous \emph{Runes}, the latest form!  In Books lies the \emph{soul} of the whole Past Time; the articulate audible voice of the Past, when the body and material substance of it has altogether vanished like a dream. Mighty fleets and armies, harbours and arsenals, vast cities, high-domed, many-engined, --- they are precious, great: but what do they become? Agamemnon, the many Agamemnons, Pericleses, and their Greece; all is gone now to some ruined fragments, dumb mournful wrecks and blocks: but the Books of Greece! There Greece, to every thinker, still very literally lives: can be called up again into life. No magic \emph{Rune} is stranger than a Book. All that Mankind has done, thought, gained or been: it is lying as in magic preservation in the pages of Books. They are the chosen possession of men.
+\mysource{Thomas Carlyle}{The Art of Writing}
+\end{quote}
+\vspace*{\fill}
+\chapter{Foreword}
+All excerpts are believed to be in the public domain or to abide by fair usage guidelines.\\
+
+For readability, ellipses are not used to connect disjoint excerpts.\\
+
+SDG\\
+
+\mainmatter
+\chapter{On Writing}
+\firstword{The} greatest and most necessary task still remains, to attain a habit of expression, without which knowledge is of little use.  This is necessary in Latin, and more necessary in English; and can only be acquired by a daily imitation of the best and correctest authors.
+\mysource{Samuel Johnson}{from Boswell's Life of Johnson}
+
+\firstword{Omit} needless words.  Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts. This requires not that the writer make all his sentences short, or that he avoid all detail and treat his subjects only in outline, but that every word tell.
+\mysource{Strunk \& White}{Elements of Style}
+
+\chapter{On Beauty}
+\firstword{For} in the arts, as in the sciences, the quest is after the same elusive quality: beauty. But what is beauty?
+
+In a deeply moving essay on ``The Meaning of Beauty in the Exact Sciences,'' Heisenberg gives a definition of beauty which I find most apposite.  The definition, which Heisenberg says goes back to antiquity, is that ``beauty is the proper conformity of the parts to one another and to the whole.'' On reflection, it does appear that this definition touches the essence of what we may describe as beautiful: it applies equally to \emph{King Lear}, the \emph{Missa Solemnis}, and the \emph{Principia}.
+
+The discovery by Pythagoras, that vibrating strings, under equal tension, sound together harmoniously, if their lengths are in simple numerical ratios, established for the first time a profound connection between the intelligible and the beautiful.  I think we may agree with Heisenberg that this is ``one of the truly momentous discoveries in the history of mankind.''
+
+Kepler was certainly under the influence of the Pythagorean concept of beauty when he compared the revolution of the planets about the sun with a vibrating string and spoke of the harmonious concord of the different planetary orbits as the music of the spheres.  It is known that Kepler was profoundly grateful that it had been reserved for him to discover, through his laws of planetary motion, a connection of the highest beauty.
+
+Beauty is that to which the human mind responds at its deepest and most profound. Indeed, everything I have tried to say in this connection has been stated more succinctly in the Latin mottos: \\
+
+\emph{Simplex sigillum veri} -- the simple is the seal of the true \\
+
+and\\
+
+\emph{Pulchritudo splendor veritatis} -- beauty is the splendour of truth
+\mysource{S. Chandrasekhar}{Shakespeare, Newton, and Beethoven}
+\vspace{1in}
+\firstword{According} to Dirac, ``Anyone who appreciates the fundamental harmony connecting the way nature runs and general mathematical principles must feel that a theory with the beauty and elegance of Einstein's theory \emph{has} to be substantially correct. When Einstein was working on building up his theory of gravitation he was not trying to account for some results of observations. Far from it. His entire procedure was to search for a beautiful theory.''
+Many outstanding physicists have shared Dirac's belief in Einstein's theory of gravitation as a theory that was created virtually without empirical reasoning, and that has to be true because of its aesthetic merits.
+\mysource{Helge Kragh}{Dirac: A Scientific Biography (p 286)}
+\vspace{1in}
+
+\firstword{When} Beethoven really does it -- as in the Funeral March of the Eroica -- he produced an entity that always seems to me to have been previously written in Heaven, and then merely dictated to him.  There is a special space carved out in the cosmos into which this movement just fits, predetermined and perfect. Our boy has the real goods, the stuff from Heaven, the power to make you feel at the finish: Something is right in the world. There is something that checks throughout, that follows its own law consistently: something we can trust, that will never let us down.
+\mysource{Leonard Bernstein}{The Joy Of Music (Why Beethoven?)}
+\vspace{1in}
+
+\firstword{When} old age shall this generation waste,	\\
+    Thou shalt remain, in midst of other woe	 \\
+  Than ours, a friend to man, to whom thou say'st,\\
+`Beauty is truth, truth beauty, -- that is all	 \\
+    Ye know on earth, and all ye need to know.'\\
+\mysource{John Keats}{Ode on a Grecian Urn}
+
+\chapter{On Happiness}
+\firstword{Pound} St. Paul's church into atoms, and consider any single atom; it is, to be sure, good for nothing; but, put all these atoms together, and you have St. Paul's church. So it is with human felicity, which is made up of many ingredients, each of which may be shewn to be very insignificant.
+\mysource{Samuel Johnson}{Boswell's Life of Johnson}
+
+\chapter{On Labor}
+\firstword{For} there is a perennial nobleness, and even sacredness, in Work. Were he never so benighted, forgetful of his high calling, there is always hope in a man that actually and earnestly works: in Idleness alone is there perpetual despair. Work, never so Mammonish, mean, is in communication with Nature; the real desire to get Work done will itself lead one more and more to truth, to Nature's appointments and regulations, which are truth.
+
+It has been written, `an endless significance lies in Work;' a man perfects himself by working. Foul jungles are cleared away, fair seedfields rise instead, and stately cities; and withal the man himself first ceases to be a jungle and foul unwholesome desert thereby. Consider how, even in the meanest sorts of Labour, the whole soul of a man is composed into a kind of real harmony, the instant he sets himself to work! Doubt, Desire, Sorrow, Remorse, Indignation, Despair itself, all these like helldogs lie beleaguering the soul of the poor dayworker, as of every man: but he bends himself with free valour against his task, and all these are stilled, all these shrink murmuring far off into their caves. The man is now a man. The blessed glow of Labour in him, is it not as purifying fire, wherein all poison is burnt up, and of sour smoke itself there is made bright blessed flame!
+
+Blessed is he who has found his work; let him ask no other blessedness. He has a work, a life-purpose; he has found it, and will follow it! How, as a free-flowing channel, dug and torn by noble force through the sour mud-swamp of one's existence, like an ever-deepening river there, it runs and flows; draining off the sour festering water, gradually from the root of the remotest grass-blade; making, instead of pestilential swamp, a green fruitful meadow with its clear-flowing stream. How blessed for the meadow itself, let the stream and its value be great or small! Labour is Life: from the inmost heart of the Worker rises his god-given Force, the sacred celestial Life-essence breathed into him by Almighty God; from his inmost heart awakens him to all nobleness, to all knowledge, 'self-knowledge' and much else, so soon as Work fitly begins. Knowledge? The knowledge that will hold good in working, cleave thou to that; for Nature herself accredits that, says Yea to that. Properly thou hast no other knowledge but what thou hast got by working: the rest is yet all a hypothesis of knowledge; a thing to be argued of in schools, a thing floating in the clouds, in endless logic-vortices, till we try it and fix it. `Doubt, of whatever kind, can be ended by Action alone.'
+\mysource{Thomas Carlyle}{Past and Present}
+\vspace{1in}
+
+\firstword{The} Mason's ways are \\
+A type of Existence, \\
+And his persistence \\
+Is as the days are \\
+Of men in this world. \\
+ \\
+The Future hides in it \\
+Gladness and sorrow; \\
+We press still thorow, \\
+Naught that abides in it \\
+Daunting us, -- onward. \\
+ \\
+And solemn before us, \\
+Veiled, the dark Portal, \\
+Goal of all mortal : -- \\
+Stars silent rest o'er us, \\
+Graves under us silent. \\
+ \\
+While earnest thou gazest, \\
+Comes boding of terror, \\
+Comes phantasm and error, \\
+Perplexes the bravest \\
+With doubt and misgiving. \\
+ \\
+But heard are the Voices, -- \\
+Heard are the Sages, \\
+The Worlds and the Ages: \\
+``Choose well, your choice is \\
+Brief and yet endless: \\
+ \\
+Here eyes do regard you, \\
+In Eternity's stillness; \\
+Here is all fulness, \\
+Ye brave, to reward you; \\
+Work and despair not.'' \\
+
+\mysource{Johann Goethe}{The Mason}
+
+
+\chapter{On Drudgery}
+\firstword{It} is the fate of those who toil at the lower employments of life, to be rather driven by the fear of evil, than attracted by the prospect of good; to be exposed to censure, without hope of praise; to be disgraced by miscarriage, or punished for neglect, where success would have been without applause, and diligence without reward.
+
+Among these unhappy mortals is the writer of dictionaries; whom mankind have considered, not as the pupil, but the slave of science, the pionier of literature, doomed only to remove rubbish and clear obstructions from the paths through which Learning and Genius press forward to conquest and glory, without bestowing a smile on the humble drudge that facilitates their progress. Every other authour may aspire to praise; the lexicographer can only hope to escape reproach, and even this negative recompense has been yet granted to very few.
+
+I have, notwithstanding this discouragement, attempted a dictionary of the English language, which, while it was employed in the cultivation of every species of literature, has itself been hitherto neglected; suffered to spread, under the direction of chance, into wild exuberance; resigned to the tyranny of time and fashion; and exposed to the corruptions of ignorance, and caprices of innovation.
+
+When I took the first survey of my undertaking, I found our speech copious without order, and energetick without rules: wherever I turned my view, there was perplexity to be disentangled, and confusion to be regulated; choice was to be made out of boundless variety, without any established principle of selection; adulterations were to be detected, without a settled test of purity; and modes of expression to be rejected or received, without the suffrages of any writers of classical reputation or acknowledged authority.
+\mysource{Samuel Johnson}{Preface to Dictionary of the English Language}
+
+\chapter{On Crowds}
+\firstword{After} a comfortable breakfast, served in the car, Mr. Fogg and his partners had just resumed whist, when a violent whistling was heard, and the train stopped. Passepartout put his head out of the door, but saw nothing to cause the delay; no station was in view.
+
+The train had stopped before a red signal which blocked the way. The engineer and conductor were talking excitedly with a signal-man, whom the station-master at Medicine Bow, the next stopping place, had sent on before. The passengers drew around and took part in the discussion, in which Colonel Proctor, with his insolent manner, was conspicuous.
+
+Passepartout, joining the group, heard the signal-man say, ``No! you can't pass. The bridge at Medicine Bow is shaky, and would not bear the weight of the train."
+
+This was a suspension-bridge thrown over some rapids, about a mile from the place where they now were. According to the signal-man, it was in a ruinous condition, several of the iron wires being broken; and it was impossible to risk the passage. He did not in any way exaggerate the condition of the bridge. It may be taken for granted that, rash as the Americans usually are, when they are prudent there is good reason for it.
+
+Passepartout found that he could not avoid telling his master what had occurred, and, with hanging head, he was turning towards the car, when the engineer, a true Yankee, named Forster called out, ``Gentlemen, perhaps there is a way, after all, to get over."
+
+``On the bridge?" asked a passenger.
+
+``On the bridge."
+
+``With our train?"
+
+``With our train."
+
+Passepartout stopped short, and eagerly listened to the engineer.
+
+``But the bridge is unsafe," urged the conductor.
+
+``No matter," replied Forster; ``I think that by putting on the very highest speed we might have a chance of getting over."
+
+``The devil!" muttered Passepartout.
+
+But a number of the passengers were at once attracted by the engineer's proposal, and Colonel Proctor was especially delighted, and found the plan a very feasible one. He told stories about engineers leaping their trains over rivers without bridges, by putting on full steam; and many of those present avowed themselves of the engineer's mind.
+
+``We have fifty chances out of a hundred of getting over," said one.
+
+``Eighty! ninety!"
+
+Passepartout was astounded, and, though ready to attempt anything to get over Medicine Creek, thought the experiment proposed a little too American. ``Besides," thought he, ``there's a still more simple way, and it does not even occur to any of these people! Sir," said he aloud to one of the passengers, ``the engineer's plan seems to me a little dangerous, but --"
+
+``Eighty chances!" replied the passenger, turning his back on him.
+
+``I know it," said Passepartout, turning to another passenger, ``but a simple idea --"
+
+``Ideas are no use," returned the American, shrugging his shoulders, ``as the engineer assures us that we can pass."
+
+``Doubtless," urged Passepartout, ``we can pass, but perhaps it would be more prudent --"
+
+``What! Prudent!" cried Colonel Proctor, whom this word seemed to excite prodigiously. ``At full speed, don't you see, at full speed!"
+
+``I know -- I see," repeated Passepartout; ``but it would be, if not more prudent, since that word displeases you, at least more natural --"
+
+``Who! What! What's the matter with this fellow?" cried several.
+
+The poor fellow did not know to whom to address himself.
+
+``Are you afraid?'' asked Colonel Proctor.
+
+``I afraid? Very well; I will show these people that a Frenchman can be as American as they!''
+
+``All aboard!'' cried the conductor.
+
+``Yes, all aboard!'' repeated Passepartout, and immediately. ``But they can't prevent me from thinking that it would be more natural for us to cross the bridge on foot, and let the train come after!''
+
+But no one heard this sage reflection, nor would anyone have acknowledged its justice. The passengers resumed their places in the cars. Passepartout took his seat without telling what had passed. The whist-players were quite absorbed in their game.
+
+The locomotive whistled vigorously; the engineer, reversing the steam, backed the train for nearly a mile -- retiring, like a jumper, in order to take a longer leap. Then, with another whistle, he began to move forward; the train increased its speed, and soon its rapidity became frightful; a prolonged screech issued from the locomotive; the piston worked up and down twenty strokes to the second. They perceived that the whole train, rushing on at the rate of a hundred miles an hour, hardly bore upon the rails at all.
+
+And they passed over! It was like a flash. No one saw the bridge. The train leaped, so to speak, from one bank to the other, and the engineer could not stop it until it had gone five miles beyond the station. But scarcely had the train passed the river, when the bridge, completely ruined, fell with a crash into the rapids of Medicine Bow.
+\mysource{Jules Verne}{Around the World in 80 Days (Ch 28)}
+
+\chapter{On Contentment}
+\firstword{`By God}, lady,' said Sancho, `but this doubt was born in the nick of time. Tell it, your worship, to speak clearly or any way it will, for I know it speaks the truth and that I should have left my master days ago if I had been wise. But that was my lot and my ill-luck. I can do nothing else; I have to follow him; we're of the same village; I've eaten his bread; I love him dearly; I'm grateful to him; he gave me his ass-colts; and, what is more, I'm faithful; and so it's impossible for anything to part us except the man with the pick and shovel.  And if your Highness doesn't wish them to give me the promised governorship, God made me without it, and perhaps my not getting it may redound to the good of my conscience. For though I'm a fool, I understand the proverb which says: for his own hurt the ant sprouted wings. And it may well be that Squire Sancho may get to Heaven quicker than Governor Sancho. They bake as good bread here as in France; and in the night all cats are grey; and a man's pretty unlucky if he hasn't broken his fast by two in the afternoon; and there's no stomach a hand's breadth bigger than another, that can be filled, as the saying goes, with straw and hay; and the little birds of the field have God to provide for them and feed them; and four yards of Cuenca shoddy will warm you more than any four of Segovia broadcloth; and when we leave this world and go into the ground below the prince's path is as narrow as the labourer's, and the Pope's body takes up no more feet of earth than the sexton's, though one's higher than the other; for when we go down the pit we all have to shrink and fit, or they make us shrink and fit whether we like it or not -- and good night! And I say once more that if your ladyship doesn't wish to give me the isle because I'm a fool, I shall be wise enough not to care. And I've heard say that behind the cross lurks the devil; and all is not gold that glitters; and from among oxen, ploughs and yokes they took Wamba to be King of Spain; and from among silks, entertainments and riches they took Roderick to be eaten by snakes, if the verses of the old ballads don't lie.'
+\mysource{Miguel Cervantes}{Don Quixote (Part 2, Ch 33)}
+\vspace{1in}
+
+
+\firstword{Perfect} stillness reigns, not a breath of wind stirring, and not even the growing swell can destroy the prevailing peace. The moon has risen large and round, and with a strange ruddy glow, up from the ice-fields to the east, and in the north there is still a narrow golden strip of evening light. Far away under the moon and above the ice is a gleaming band which shows the open sea; inside this and all around is ice and snow, and nothing but ice and snow; behind lie the Greenland Alps with their marvellously beautiful peaks standing out against a dusky, dreamy sky.
+
+It is strange indeed for a summer night, and far different from those scenes that we are wont to connect with moolight and summer dreams. Yet is has fascination of its own, which more southerly regions can scarcely rival.
+
+On the ice before me stand the boats, the sledges, and the tent, in which my tired comrades are lying in sound slumber.  In a pool of water by my side the moon shines calm and bright. All nature lies in an atmosphere of peace. So lately we had the day with all its burning eagerness and impatience, with its ponderings and restless designs upon the goal of our undertaking -- and now all it stillness and repose.  Over all the moon sheds her soothing light, her beams floating through the silence of the polar night, and gently and softly drawing the soul in their train. The thoughts and powers of Nature herself seemed to pervade all space. One's surroundings of place and time vanish, and before one appears the perspective of a past life instead.
+
+And when all comes to all, what is our failure to be reckoned? Six men drifting southwards on a floe, to land eventually at a point other than than contemplated.  And either, in spite of this, we reach our goal -- and in that case, what reason have we to complain? - or we do not reach it, and what then? A vain hope has been disappointed, not for the first time in history, and if we have no success this year we may have better luck the next.
+
+\emph{[Nansen's six-man crew had been within site of shore before their rowboats were stuck in pack ice and carried hundreds of miles off course for two weeks. This journal entry was written after a week adrift in dangerously rough arctic seas]}
+\mysource{Fridtjof Nansen}{The First Crossing Of Greenland (Ch 8)}
+\vspace{1in}
+
+\firstword{Since} I come to Mississippi I's been right here at dis place fifty-one years de 12th day November, 1937. I's allus farmed fo' a livin' an' has also bottomed chairs, made baskets an' built dirt chimneys. They ain't many folks my age [97] what'll get far 'nuff off de ground to build a chimney. De Lord takes care o' me tho'. Heep o' folks I's worked fo' ain't never paid me but dats up to dem an' de Lord. They de one what'll have to give account fo dat. Christ say when ever we do de thin' right no evil shall rest upon you.
+\mysource{Henry Murray}{WPA Slave Narratives (Mississippi)}
+
+\chapter{On Government}
+ \firstword{We} are all familiar with the basic difference between English and French parliamentary institutions; copied respectively by such other assemblies as derive from each. We all realize that this main difference has nothing to do with national temperament, but stems from their seating plans.
+
+The British, being brought up on team games, enter their House of Commons in the spirit of those who would rather be doing something else. If they cannot be playing golf or tennis, they can at least pretend that politics is a game with very similar rules. But for this device, Parliament would arouse even less interest than it does. So the British instinct is to form two opposing teams, with referee and linesmen, and let them debate until they exhaust themselves. The House of Commons is so arranged that the individual Member is practically compelled to take one side or the other before he knows what the arguments are, or even (in some cases) before he knows the subject of the dispute. His training from birth has been to play for his side, and this saves him from any undue mental effort. Sliding into a seat toward the end of a speech, he knows exactly how to take up the argument from the point it has reached. If the speaker is on his own side of the House, he will say ``Hear, hear!'' If he is on the opposite side, he can safely say ``Shame!'' or merely ``Oh!'' At some later stage he may have time to ask his neighbor what the debate is supposed to be about. Strictly speaking, however, there is no need for him to do this. He knows enough in any case not to kick into his own goal. The men who sit opposite are entirely wrong and all their arguments are so much drivel. The men on his own side are statesmanlike, by contrast, and their speeches a singular blend of wisdom, eloquence, and moderation. Nor does it make the slightest difference whether he learned his politics at Harrow or in following the fortunes of Aston Villa. In either school he will have learned when to cheer and when to groan. But the British system depends entirely on its seating plan. If the benches did not face each other, no one could tell truth from falsehood -- wisdom from folly --unless indeed by listening to it all. But to listen to it all would be ridiculous, for half the speeches must of necessity be nonsense.
+
+In France the initial mistake was made of seating the representatives in a semicircle, all facing the chair. The resulting confusion could be imagined if it were not notorious. No real opposing teams could be formed and no one could tell (without listening) which argument was the more cogent. There was the further handicap of all the proceedings being in French -- an example the United States wisely refused to follow. But the French system is bad enough even when the linguistic difficulty does not arise. Instead of having two sides, one in the right and the other in the wrong -- so that the issue is clear from the outset -- the French form a multitude of teams facing in all directions. With the field in such confusion, the game cannot even begin. Basically their representatives are of the Right or of the Left, according to where they sit. This is a perfectly sound scheme. The French have not gone to the extreme of seating people in alphabetical order. But the semicircular chamber allows of subtle distinctions between the various degrees of tightness and leftness. There is none of the clear-cut British distinction between rightness and wrongness. One deputy is described, politically, as to the left of Monsieur Untel but well to the right of Monsieur Quelquechose. What is anyone to make of that? What should we make of it even in English? What do they make of it themselves? The answer is, ``Nothing.''
+\mysource{C. Northcote Parkinson}{Parkinson's Law (Ch 2)}
+
+\vspace{1in}
+\firstword{Never} mind the details. It ended in a fight. The Patent Office won. But I found out something to my advantage. I was told that the Treasury Department was the proper place for me to go to. I went there. I waited two hours and a half, and then I was admitted to the First Lord of the Treasury. I said:
+
+``Most noble, grave and reverend Signor: On or about the 10th day of October, 1861, John Wilson Macken --''
+
+``That is sufficient, Sir. I have heard of you. Go to the First Auditor of the Treasury.''
+
+I did so. He sent me to the Second Auditor. The Second Auditor sent me to the Third, and the Third sent me to the First Comptroller of the Corn-Beef Division. This began to look like business. He examined his books and all his loose papers, but found no minute of the beef contract. I went to the Second Comptroller of the Corn-Beef Division. He examined his books and his loose papers, but with no success. I was encouraged. During that week I got as far as the Sixth Comptroller in that division; the next week I got through the Claims Department; the third week I began and completed the Mislaid Contracts Department, and got a foothold in the Dead Reckoning Department. I finished that in three days. There was only one place left for it now. I laid siege to the Commissioner of Odds and Ends. To his clerk, rather -- he was not there himself. There were sixteen beautiful young ladies in the room, writing in books, and there were seven well favored young clerks showing them how. The young women smiled up over their shoulders, and the clerks smiled back at them, and all went merry as a marriage bell. Two or three clerks that were reading the newspapers looked at me rather hard, but went on reading, and nobody said anything. However, I had been used to this kind of alacrity from Fourth Assistant-Junior Clerks all through my eventful career, from the very day I entered the first office of the Corn-Beef Bureau clear till I passed out of the last one in the Dead Reckoning Division. I had got so accomplished by this time that I could stand on one foot from the moment I entered an office till a clerk spoke to me, without changing more than two, or maybe three times.
+
+I only know that if a man lives long enough, he can trace a thing through the Circumlocution Office of Washington, and find out, after much labor and trouble and delay, that which he could have found out on the first day if the business of the Circumlocution Office were as ingeniously systematized as it would be if it were a great private mercantile institution.
+\mysource{Mark Twain}{The Facts In the Case of the Great Beef Contract}
+
+
+\chapter{On the Meaning of Life}
+\firstword{In} both East and West, we may trace a journey which has led humanity down the centuries to meet and engage truth more and more deeply. It is a journey which has unfolded --- as it must --- within the horizon of personal self-consciousness: the more human beings know reality and the world, the more they know themselves in their uniqueness, with the question of the meaning of things and of their very existence becoming ever more pressing. This is why all that is the object of our knowledge becomes a part of our life. The admonition \emph{Know yourself} was carved on the temple portal at Delphi, as testimony to a basic truth to be adopted as a minimal norm by those who seek to set themselves apart from the rest of creation as ``human beings'', that is as those who ``know themselves''.
+
+Moreover, a cursory glance at ancient history shows clearly how in different parts of the world, with their different cultures, there arise at the same time the fundamental questions which pervade human life: Who am I? Where have I come from and where am I going? Why is there evil? What is there after this life? These are the questions which we find in the sacred writings of Israel, as also in the Veda and the Avesta; we find them in the writings of Confucius and Lao-Tze, and in the preaching of Tirthankara and Buddha; they appear in the poetry of Homer and in the tragedies of Euripides and Sophocles, as they do in the philosophical writings of Plato and Aristotle. They are questions which have their common source in the quest for meaning which has always compelled the human heart. In fact, the answer given to these questions decides the direction which people seek to give to their lives.
+
+It is unthinkable that a search so deeply rooted in human nature would be completely vain and useless. The capacity to search for truth and to pose questions itself implies the rudiments of a response. Human beings would not even begin to search for something of which they knew nothing or for something which they thought was wholly beyond them. Only the sense that they can arrive at an answer leads them to take the first step. This is what normally happens in scientific research. When scientists, following their intuition, set out in search of the logical and verifiable explanation of a phenomenon, they are confident from the first that they will find an answer, and they do not give up in the face of setbacks. They do not judge their original intuition useless simply because they have not reached their goal; rightly enough they will say that they have not yet found a satisfactory answer.
+\mysource{Pope John Paul II}{Fides et Ratio (Faith and Reason)}
+\vspace{1in}
+
+\firstword{Everywhere} else, then, the Old Testament positively rejoices in the obliteration of man in comparison with the divine purpose. The Book of Job stands definitely alone because the Book of Job definitely asks, ``But what is the purpose of God? Is it worth the sacrifice even of our miserable humanity? Of course it is easy enough to wipe out our own paltry wills for the sake of a will that is grander and kinder. But is it grander and kinder? Let God use His tools; let God break His tools. But what is He doing and what are they being broken for?'' It is because of this question that we have to attack as a philosophical riddle the riddle of the Book of Job.
+
+When, at the end of the poem, God enters (somewhat abruptly), is struck the sudden and splendid note which makes the thing as great as it is. All the human beings through the story, and Job especially, have been asking questions of God. A more trivial poet would have made God enter in some sense or other in order to answer the questions. By a touch truly to be called inspired, when God enters, it is to ask a number more questions on His own account.
+
+In this drama of scepticism God Himself takes up the role of sceptic. He does what all the great voices defending religion have always done. He does, for instance, what Socrates did. He turns rationalism against itself. He seems to say that if it comes to asking questions, He can ask some questions which will fling down and flatten out all conceivable human questioners.
+
+The poet by an exquisite intuition has made God ironically accept a kind of controversial equality with His accusers. He is willing to regard it as if it were a fair intellectual duel: ``Gird up now thy loins like a man; for I will demand of thee, and answer thou me.'' The everlasting adopts an enormous and sardonic humility. He is quite willing to be prosecuted. He only asks for the right which every prosecuted person possesses; He asks to be allowed to cross-examine the witness for the prosecution.
+
+And He carries yet further the correctness of the legal parallel. For the first question, essentially speaking, which He asks of Job is the question that any criminal accused by Job would be most entitled to ask. He asks Job who he is. And Job, being a man of candid intellect, takes a little time to consider, and comes to the conclusion that he does not know.
+
+This is the first great fact to notice about the speech of God, which is the culmination of the inquiry. It represents all human sceptics routed by a higher scepticism. It is this method, used sometimes by supreme and sometimes by mediocre minds, that has ever since been the logical weapon of the true mystic. Socrates, as I have said, used it when he showed that if you only allowed him enough sophistry he could destroy all the sophists. Jesus Christ used it when He reminded the Sadducees, who could not imagine the nature of marriage in heaven, that if it came to that they had not really imagined the nature of marriage at all. In the break up of Christian theology in the eighteenth century, Butler used it, when he pointed out that rationalistic arguments could be used as much against vague religion as against doctrinal religion, as much against rationalist ethics as against Christian ethics. It is the root and reason of the fact that men who have religious faith have also philosophic doubt, like Cardinal Newman, Mr. Balfour, or Mr. Mallock.
+
+These are the small streams of the delta; the Book of Job is the first great cataract that creates the river. In dealing with the arrogant asserter of doubt, it is not the right method to tell him to stop doubting. It is rather the right method to tell him to go on doubting, to doubt a little more, to doubt every day newer and wilder things in the universe, until at last, by some strange enlightenment, he may begin to doubt himself. This, I say, is the first fact touching the speech; the fine inspiration by which God comes in at the end, not to answer riddles, but to propound them.
+
+The other great fact which, taken together with this one, makes the whole work religious instead of merely philosophical, is that other great surprise which makes Job suddenly satisfied with the mere presentation of something impenetrable. Verbally speaking the enigmas of Jehovah seem darker and more desolate than the enigmas of Job; yet Job was comfortless before the speech of Jehovah and is comforted after it. He has been told nothing, but he feels the terrible and tingling atmosphere of something which is too good to be told. The refusal of God to explain His design is itself a burning hint of His design. The riddles of God are more satisfying than the solutions of man.
+
+Thirdly, of course, it is one of the splendid strokes that God rebukes alike the man who accused, and the men who defended Him; that He knocks down pessimists and optimists with the same hammer. And it is in connection with the mechanical and supercilious comforters of Job that there occurs the still deeper and finer inversion of which I have spoken. The mechanical optimist endeavours to justify the universe avowedly upon the ground that it is a rational and consecutive pattern. He points out that the fine thing about the world is that it can all be explained. That is the one point, if I may put it so, on which God in return, is explicit to the point of violence. God says, in effect, that if there is one fine thing about the world, as far as men are concerned, it is that it cannot be explained. He insists on the inexplicableness of everything; `Hath the rain a father? . . . Out of whose womb came the ice?'
+
+He goes farther, and insists on the positive and palpable unreason of things; `Hast thou sent the rain upon the desert where no man is, and upon the wilderness wherein there is no man?' God will make man see things, if it is only against the black background of nonentity. God will make Job see a startling universe if He can only do it by making Job see an idiotic universe. To startle man God becomes for an instant a blasphemer; one might almost say that God becomes for an instant an atheist. He unrolls before Job a long panorama of created things, the horse, the eagle, the raven, the wild ass, the peacock, the ostrich, the crocodile. He so describes each of them that it sounds like a monster walking in the sun. The whole is a sort of psalm or rhapsody of the sense of wonder. The maker of all things is astonished at the things He has Himself made. This we may call the third point. Job puts forward a note of interrogation; God answers with a note of exclamation. Instead of proving to Job that it is an explicable world, He insists that it is a much stranger world than Job ever thought it was.
+
+Lastly, the poet has achieved in this speech, with that unconscious artistic accuracy found in so many of the simpler epics, another and much more delicate thing. Without once relaxing the rigid impenetrability of Jehovah in His deliberate declaration, he has contrived to let fall here and therein the metaphors, in the parenthetical imagery, sudden and splendid suggestions that the secret of God is a bright and not a sad one, semi-accidental suggestions, like light seen for an instant through the cracks of a closed door. It would be difficult to praise too highly, in a purely poetical sense, the instinctive exactitude and ease with which these more optimistic insinuations are let fall in other connections, as if the Almighty Himself were scarcely aware that He was letting them out. For instance, there is that famous passage where Jehovah with devastating sarcasm, asks Job where he was when the foundations of the world were laid, and then (as if merely fixing a date) mentions the time when the sons of God shouted for joy. One cannot help feeling, even upon this meagre information, that they must have had something to shout about. Or again, when God is speaking of snow and hail in the mere catalogue of the physical cosmos, He speaks of them as a treasury that He has laid up against the day of battle -- a hint of some huge Armageddon in which evil shall be at last overthrown.
+
+The Book of Job is chiefly remarkable, as I have insisted throughout, for the fact that it does not end in a way that is conventionally satisfactory. Job is not told that his misfortunes were due to his sins or a part of any plan for his improvement.
+
+But in the prologue we see Job tormented not because he was the worst of men, but because he was the best. It is the lesson of the whole work that man is most comforted by paradoxes. Here is the very darkest and strangest of the paradoxes; and it is by all human testimony the most reassuring. I need not suggest what a high and strange history awaited this paradox of the best man in the worst fortune. I need not say that in the freest and most philosophical sense there is one Old Testament figure who is truly a type; or say what is prefigured in the wounds of Job.
+\mysource{G.K. Chesterton}{Introduction to the Book of Job}
+\vspace{1in}
+
+\firstword{The} reason why the Bible has such an unceasing influence is because no one, as long as the world endures, will ever arise and say: I grasp the work as a whole, and understand it in all its parts.  But we say humbly: as a whole let us respect it, and in its parts apply it.
+\mysource{Goethe}{Reflections & Maxims}
+
+
+\chapter{On Despair}
+\firstword{Spiritual} despondency, which under the name of \emph{acedia} was accounted one of the seven deadly sins during the Middle Ages, has come in these later days to be one of the main resources of literature.  Life itself has recently been defined by one of the lights of the French deliquescent school as ``an epileptic fit between two nothings.''
+\mysource{Irving Babbitt}{Literature And The American College (Ch 6)}
+\vspace{1in}
+
+\firstword{Candide}, Martin, and Pangloss sometimes disputed about morals and metaphysics. They often saw passing under the windows of their farm boats full of Effendis, Pashas, and Cadis, who were going into banishment to Lemnos, Mitylene, or Erzeroum. And they saw other Cadis, Pashas, and Effendis coming to supply the place of the exiles, and afterwards exiled in their turn. They saw heads decently impaled for presentation to the Sublime Porte. Such spectacles as these increased the number of their dissertations; and when they did not dispute time hung so heavily upon their hands, that one day the old woman ventured to say to them:
+
+``I want to know which is worse, to be ravished a hundred times by negro pirates, to have a buttock cut off, to run the gauntlet among the Bulgarians, to be whipped and hanged at an auto-da-fe, to be dissected, to row in the galleys -- in short, to go through all the miseries we have undergone -- or to stay here and have nothing to do?''
+
+``It is a great question,'' said Candide.
+
+This discourse gave rise to new reflections, and Martin especially concluded that man was born to live either in a state of distracting inquietude or of lethargic disgust.
+\mysource{Voltaire}{Candide (Ch 30)}
+\vspace{1in}
+
+\firstword{I} left in a French steamer, and she called in every blamed port they have out there, for, as far as I could see, the sole purpose of landing soldiers and custom-house officers. I watched the coast. Watching a coast as it slips by the ship is like thinking about an enigma. There it is before you -- smiling, frowning, inviting, grand, mean, insipid, or savage, and always mute with an air of whispering, 'Come and find out.' This one was almost featureless, as if still in the making, with an aspect of monotonous grimness. The edge of a colossal jungle, so dark-green as to be almost black, fringed with white surf, ran straight, like a ruled line, far, far away along a blue sea whose glitter was blurred by a creeping mist. The sun was fierce, the land seemed to glisten and drip with steam. Here and there greyish-whitish specks showed up clustered inside the white surf, with a flag flying above them perhaps. Settlements some centuries old, and still no bigger than pinheads on the untouched expanse of their background.
+
+We pounded along, stopped, landed soldiers; went on, landed custom-house clerks to levy toll in what looked like a God-forsaken wilderness, with a tin shed and a flag-pole lost in it; landed more soldiers -- to take care of the custom-house clerks, presumably. Some, I heard, got drowned in the surf; but whether they did or not, nobody seemed particularly to care. They were just flung out there, and on we went. Every day the coast looked the same, as though we had not moved; but we passed various places -- trading places -- with names like Gran' Bassam, Little Popo; names that seemed to belong to some sordid farce acted in front of a sinister back-cloth. The idleness of a passenger, my isolation amongst all these men with whom I had no point of contact, the oily and languid sea, the uniform sombreness of the coast, seemed to keep me away from the truth of things, within the toil of a mournful and senseless delusion.
+
+The voice of the surf heard now and then was a positive pleasure, like the speech of a brother. It was something natural, that had its reason, that had a meaning.  Now and then a boat from the shore gave one a momentary contact with reality. It was paddled by black fellows. You could see from afar the white of their eyeballs glistening. They shouted, sang; their bodies streamed with perspiration; they had faces like grotesque masks -- these chaps; but they had bone, muscle, a wild vitality, an intense energy of movement, that was as natural and true as the surf along their coast. They wanted no excuse for being there. They were a great comfort to look at.
+
+For a time I would feel I belonged still to a world of straightforward facts; but the feeling would not last long. Something would turn up to scare it away. Once, I remember, we came upon a man-of-war anchored off the coast. There wasn't even a shed there, and she was shelling the bush. It appears the French had one of their wars going on thereabouts. Her ensign dropped limp like a rag; the muzzles of the long six-inch guns stuck out all over the low hull; the greasy, slimy swell swung her up lazily and let her down, swaying her thin masts. In the empty immensity of earth, sky, and water, there she was, incomprehensible, firing into a continent. Pop, would go one of the six-inch guns; a small flame would dart and vanish, a little white smoke would disappear, a tiny projectile would give a feeble screech -- and nothing happened. Nothing could happen. There was a touch of insanity in the proceeding, a sense of lugubrious drollery in the sight; and it was not dissipated by somebody on board assuring me earnestly there was a camp of natives -- he called them enemies! -- hidden out of sight somewhere.
+
+  We gave her her letters (I heard the men in that lonely ship were dying of fever at the rate of three a day) and went on. We called at some more places with farcical names, where the merry dance of death and trade goes on in a still and earthy atmosphere as of an overheated catacomb; all along the formless coast bordered by dangerous surf, as if Nature herself had tried to ward off intruders; in and out of rivers, streams of death in life, whose banks were rotting into mud, whose waters, thickened into slime, invaded the contorted mangroves, that seemed to writhe at us in the extremity of an impotent despair. Nowhere did we stop long enough to get a particularized impression, but the general sense of vague and oppressive wonder grew upon me. It was like a weary pilgrimage amongst hints for nightmares.
+\mysource{Joseph Conrad}{Heart of Darkness, Part 1}
+\vspace{1in}
+
+\firstword{Vanity} of vanities, saith the Preacher, vanity of vanities; all is vanity.  What profit hath a man of all his labor which he taketh under the sun?  I have seen all the works that are done under the sun; and, behold, all is vanity and vexation of spirit.
+\mysource{}{Ecclesiastes (Ch 1,2)}
+\vspace{1in}
+
+\firstword{I} feel pity for those persons who make so much ado about the transitoriness of all things and lose themselves in the contemplation of earthly vanity.  Why, we are here for the very purpose of making the transitory imperishable, and this can be done only if we know how to appreciate both conditions.
+\mysource{Goethe}{Reflections & Maxims}
+
+\chapter{On Repetition}
+
+\firstword{Literature} is a fragment of fragments.  Only the smallest portion of that which happened and was spoken has been recorded; and of that which has been recorded, only the smallest portion has been preserved.  And yet in this imperfect condition of literature we find thousandfold repetition; whence it is evident how circumscribed are the mind and destiny of man.
+\mysource{Goethe}{Reflections & Maxims}
+
+\firstword{As} among the works of nature no man can properly call a river deep or a mountain high, without the knowledge of many mountains and many rivers; so in the productions of genius, nothing can be stiled excellent till it has been compared with other works of the same kind. Demonstration immediately displays its power, and has nothing to hope or fear from the flux of years; but works tentative and experimental must be estimated by their proportion to the general and collective ability of man, as it is discovered in a long succession of endeavours. Of the first building that was raised, it might be with certainty determined that it was round or square, but whether it was spacious or lofty must have been referred to time. The Pythagorean scale of numbers was at once discovered to be perfect; but the poems of Homer we yet know not to transcend the common limits of human intelligence, but by remarking, that nation after nation, and century after century, has been able to do little more than transpose his incidents, new name his characters, and paraphrase his sentiments.
+\mysource{Samuel Johnson}{Introduction to Shakespeare}
+
+\chapter{On Absurdity}
+\firstword{If} one assumes, however, that the PGA TOUR has some legal obligation to play classic, Platonic golf — and if one assumes the correctness of all the other wrong turns the Court has made to get to this point — then we Justices must confront what is indeed an awesome responsibility. It has been rendered the solemn duty of the Supreme Court of the United States, laid upon it by Congress in pursuance of the Federal Government’s power ``[t]o regulate Commerce with foreign Nations, and among the several States,'' to decide What Is Golf.
+
+I am sure that the Framers of the Constitution, aware of the 1457 edict of King James II of Scotland prohibiting golf because it interfered with the practice of archery, fully expected that sooner or later the paths of golf and government, the law and the links, would once again cross, and that the judges of this august Court would some day have to wrestle with that age-old jurisprudential question, for which their years of study in the law have so well prepared them: Is someone riding around a golf course from shot to shot really a golfer? The answer, we learn, is yes. The Court ultimately concludes, and it will henceforth be the Law of the Land, that walking is not a ``fundamental'' aspect of golf.
+\mysource{Antonin Scalia}{Dissent, PGA Tour v. Martin}
+
+
+\chapter{On Hope}
+
+\firstword{I} believe like a child that suffering will be healed and made up for, that all the humiliating absurdity of human contradictions will vanish like a pitiful mirage, like the despicable fabrication of the impotent and infinitely small Euclidean mind of man, that in the world's finale, at the moment of eternal harmony, something so precious will come to pass that it will suffice for all hearts, for the comforting of all resentments, for the atonement of all the crimes of humanity, for all the blood that they've shed; that it will make it not only possible to forgive but to justify all that has happened.
+\mysource{Fyodor Dostoyevsky}{The Brothers Karamazov}
+
+\chapter{On Perserverance}
+
+\firstword{To} have attempted much is always laudable, even when the enterprize is above the strength that undertakes it: To rest below his own aim is incident to every one whose fancy is active, and whose views are comprehensive; nor is any man satisfied with himself because he has done much, but because he can conceive little. When first I engaged in this work, I resolved to leave neither words nor things unexamined, and pleased myself with a prospect of the hours which I should revel away in feasts of literature, with the obscure recesses of northern learning, which I should enter and ransack; the treasures with which I expected every search into those neglected mines to reward my labour, and the triumph with which I should display my acquisitions to mankind.
+
+When I had thus enquired into the original of words, I resolved to show likewise my attention to things; to pierce deep into every science, to enquire the nature of every substance of which I inserted the name, to limit every idea by a definition strictly logical, and exhibit every production of art or nature in an accurate description, that my book might be in place of all other dictionaries whether appellative or technical. But these were the dreams of a poet doomed at last to wake a lexicographer. I soon found that it is too late to look for instruments, when the work calls for execution, and that whatever abilities I had brought to my task, with those I must finally perform it. To deliberate whenever I doubted, to enquire whenever I was ignorant, would have protracted the undertaking without end, and, perhaps, without much improvement; for I did not find by my first experiments, that that I had not of my own was easily to be obtained: I saw that one enquiry only gave occasion to another, that book referred to book, that to search was not always to find, and to find was not always to be informed; and that thus to persue perfection, was, like the first inhabitants of Arcadia, to chace the sun, which, when they had reached the hill where he seemed to rest, was still beheld at the same distance from them.
+
+I then contracted my design, determining to confide in myself, and no longer to solicit auxiliaries, which produced more incumbrance than assistance: by this I obtained at least one advantage, that I set limits to my work, which would in time be ended, though not completed.
+
+A large work is difficult because it is large, even though all its parts might singly be performed with facility; where there are many things to be done, each must be allowed its share of time and labour, in the proportion only which it bears to the whole; nor can it be expected, that the stones which form the dome of a temple, should be squared and polished like the diamond of a ring.
+\mysource{Samuel Johnson}{Preface to Dictionary of the English Language}
+
+
+\chapter{On Liturgy}
+
+\firstword{It} is superstition to put one's hope in formalities; but it is pride to be unwilling to submit to them.
+
+The external must be joined to the internal to obtain anything from God, that is to say, we must kneel, pray with the lips, etc., in order that proud man, who would not submit himself to God, may be now subject to the creature.  To expect help from these externals is superstition; to refuse to join them to the internal is pride.
+
+Other religions, as the pagan, are more popular, for they consist in externals. But they are not for educated people. A purely intellectual religion would be more suited to the learned, but it would be of no use to the common people. The Christian religion alone is adapted to all, being composed of externals and internals. It raises the common people to the internal, and humbles the proud to the external; it is not perfect without the two, for the people must understand the spirit of the letter, and the learned must submit their spirit to the letter.
+
+For we must not misunderstand ourselves; we are as much automatic as intellectual; and hence it comes that the instrument by which conviction is attained is not demonstrated alone. How few things are demonstrated? Proofs only convince the mind. Custom is the source of our strongest and most believed proofs. It bends the automaton, which persuades the mind without its thinking about the matter.  Finally, we must have recourse to it when once the mind has seen where the truth is, in order to quench our thirst, and steep ourselves in that belief, which escapes us at every hour; for always to have proofs ready is too much trouble. We must get an easier belief, which is that of custom, which, without violence, without art, without argument, makes us believe things, and inclines all our powers to this belief, so that out soul falls naturally into it. It is not enough to believe only by force of conviction, when the automaton is inclined to believe the contrary. Both our parts must be made to believe, the mind by reasons which it is sufficient to have seen once in a lifetime, and the automaton by custom, and by not allowing it to incline to the contrary. \emph{Inclina cor meum, Deus.}
+\mysource{Blaise Pascal}{Pensees}
+\vspace{1in}
+
+\firstword{I} think our business as laymen is to take what we are given and make the best of it. And I think we should find this a great deal easier if what we were given was always and everywhere the same.
+
+To judge from their practice, very few Anglican clergymen take this view. It looks as if they believed people can be lured to go to church by incessant brightenings, lightening, lengthenings, abridgements, simplifications, and complications of the service. And it is probably true that a new, keen vicar will usually be able to form within his parish a minority who are in favour of his innovations.  The majority, I believe, never are. Those who remain --- many give up churchgoing altogether --- merely endure.
+
+Is this simply because the majority are hide-bound? I think not. They have a good reason for their conservatism. Novelty, simply as such, can have only an entertainment value. And they don't go to church to be entertained. They go to \emph{use} the service, or if you prefer, to \emph{enact} it. Every service is a structure of acts and words through which we recieve a sacrament, or repent, or supplicate, or adore. And it enables us to do these things best --- if you like, it ``works'' best --- when, through long familiarity, we don't have to think about it.  As long as you notice, and have to count, the steps, you are not yet dancing but only learning to dance. A good shoe is a shoe you don't notice. Good reading becomes possible when you need not consciously think about eyes, or light, or print, or spelling. The perfect church service would be one we were almost unaware of; our attention would have been on God.
+
+But every novelty prevents this. It fixes our attention on the service itself; and thinking about worship is a different thing from worshipping.   Thus my whole liturgiological position really boils down to an entreaty for permanence and uniformity.
+\mysource{C.S. Lewis}{Letters to Malcolm}
+
+\fbox{
+\parbox{\textwidth}{
+TBD
+}}
+
+\firstword{The} Latin Church, which I constantly find myself admiring, despite its frequent astounding imbecilities, has always kept clearly before it the fact that religion is not a syllogism, but a poem. Rome, indeed, has not only preserved the original poetry in Christianity; it has also made capital additions to that poetry -- for example, the poetry of the saints, of Mary, and of the liturgy itself.  A solemn high mass must be a thousand times as impressive, to a man with any genuine religious sense in him, as the most powerful sermon ever roared under the big-top by a Presbyterian auctioneer of God. In the face of such overwhelming beauty it is not necessary to belabor the faithful with logic; they are better convinced by letting them alone.
+
+Preaching is not an essential part of the Latin ceremonial. It was very little employed in the early church, and I am convinced that good effects would flow from abandoning it today, or, at all events, reducing it to a few sentences, more or less formal. In the United States the Latin brethren have been seduced by the example of the Protestants, who commonly transform an act of worship into a puerile intellectual exercise; instead of approaching God in fear and wonder these Protestants settle back in their pews, cross their legs, and listen to an ignoramus try to prove that he is a better theologian than the Pope.
+\mysource{H.L. Mencken}{The Smart Set (Holy Writ)}
+
+Rites preserve, sermons undermine faith.
+\mysource{Don Colacho}{Escolios a un Texto Implicito: Seleccion}
+
+\chapter{On The Trivial}
+
+In his 1985 book \emph{Amusing Ourselves to Death}, Postman looks at the changes for our culture and our mode of thinking as we moved from relying on the written word to the instantaneous connection of the telegraph, then to the sound-bite laden, visual medium of television. Among many desultory effects one stands out: we became preoccupied with ``news,'' with knowing what is happened even when those things had not even the most remote value to us, and when, in any case, the speed of receiving that information was inconsequential. Postman asserts that the news of the day is a figment of our technological imagination. It is literally a media event.
+
+This preoccupation actually started even before television. Television just leveraged the effect of the telegraph, which already had unleashed the demand for immediate reporting of irrelevant information from distant locations, by making it more entertaining and accessible.
+
+Now we can add the internet, social networking, and email to the telegraph and television. We are getting better and better at keeping the serious at bay while wrapping ourselves in the absurd. Postman, perhaps reflecting on the founding of USAToday, considered the emergence of paragraph length news reports as ``an astonishing tribute to the resonance of television’s epistemology.'' Now we have Twitter.
+\mysource{Rick Bookstaber}{The Day the Earth Stood Still}
+\vspace{1in}
+
+If a man has not read the newspapers for some months, and then reads them all together, he will find out how much time is wasted upon this class of literature.
+\mysource{Goethe}{Relections & Maxims}
+
+\chapter{On Decay}
+The romantic is already fallen into its own abyss; one can scarcely imagine anything more degraded than the worst of the new productions.  Bodies which fall into corruption whilst they are still living, and are edified by a detailed contemplation of their own decay; dead men who remain alive for the ruin of others, and who feed their death on the living, — to this have our makers of literature attained.
+
+In antiquity such features were only the symptom of some rare disease; but with the moderns the disease has become endemic and epidemic.
+\mysource{Goethe}{Reflections & Maxims}
+
+\chapter{On Death}
+
+\firstword{It} is recorded of some eastern monarch, that he kept an officer in his house, whose employment it was to remind him of his mortality, by calling out every morning, at a stated hour, \emph{Remember, prince, that thou shalt die!} And the contemplation of the frailness and uncertainty of our present state appeared of so much importance to Solon of Athens, that he left this precept to future ages; Keep thine eye fixed upon the end of life.
+
+A frequent and attentive prospect of that moment, which must put a period to all our schemes, and deprive us of all our acquisitions, is indeed of the utmost efficacy to the just and rational regulation of our lives; nor would ever any thing wicked, or often any thing absurd, be undertaken or prosecuted by him who should begin every day with a serious reflection that he is born to die.
+\mysource{Samuel Johnson}{Rambler 17}
+
+\firstword{Within} a very little while thou wilt be either ashes or a skeleton; and a name perchance; and perchance, not so much as a name. And what is that but an empty sound, and a rebounding echo? Those things which in this life are dearest unto us, and of most account, they are in themselves but vain, putrid, contemptible. The most weighty and serious, if rightly esteemed, but as puppies, biting one another: or untoward children, now laughing and then crying. As for faith, and modesty, and justice, and truth, they long since, as one of the poets hath it, have abandoned this spacious earth, and retired themselves unto heaven. What is it then that doth keep thee here, if things sensible be so mutable and unsettled? and the senses so obscure, and so fallible? and our souls nothing but an exhalation of blood? and to be in credit among such, be but vanity? What is it that thou dost stay for? an extinction, or a translation; either of them with a propitious and contented mind. But still that time come, what will content thee? what else, but to worship and praise the Gods; and to do good unto men. To bear with them, and to forbear to do them any wrong. And for all external things belonging either to this thy wretched body, or life, to remember that they are neither thine, nor in thy power.
+\mysource{Marcus Aurelius}{Meditations (Book 5, XXVII)}
+
+\firstword{For} what is your life? It is even a vapour, that appeareth for a little time, and then vanisheth away.
+\mysource{}{James (Ch 4)}
+
+\chapter{Truth}
+\firstword{One} of the miseries of life is that everyone names things a little bit wrong, and so it makes things a little harder to understand in the world than if it were named differently.
+\mysource{Richard Feynman}{Computer Heuristics Lecture}
+
+\chapter{Justice}
+\firstword{Oceans} of horse-hair [wigs], continents of parchment, and learned-sergeant eloquence, were it continued till the learned tongue wore itself small in the indefatigable learned mouth, cannot make unjust just.  The grand question still remains, Was the judgement just?   If unjust, it will not and cannot get harbour for itself, or continue to have footing in this Universe, which was made by other than One Unjust.  It will continue standing for its day, for its year, for its century, doing evil all the while; but it has One enemy who is Almighty: dissolution, explosion, and the everlsating Laws of Nature incessantly advance towards it; and the deeper its rooting, more obstinate its continuing, the deeper also and huger will its ruin and overturn be.
+
+In this God's-world, with its wild-whirling eddies and made foam-oceans, where men and nations perish as if without law, and judgment for an unjust thing is sternly delayed, dost thou think that there is therefore no justice?  It is what the fool hath said in his heart. It is what the wise, in all times, were wise because they denied, and knew forever not to be.  I tell thee again, there is nothing else but justice.
+\mysource{Thomas Carlyle}{Past and Present}
+
+\chapter{Great Speeches}
+
+\firstword{So} Paul, standing in the middle of the Areopagus, said: ``Men of Athens, I perceive that in every way you are very religious. For as I passed along, and observed the objects of your worship, I found also an altar with this inscription, `To an unknown god.' What therefore you worship as unknown, this I proclaim to you. The God who made the world and everything in it, being Lord of heaven and earth, does not live in shrines made by man, nor is he served by human hands, as though he needed anything, since he himself gives to all men life and breath and everything. And he made from one every nation of men to live on all the face of the earth, having determined allotted periods and the boundaries of their habitation, that they should seek God, in the hope that they might feel after him and find him. Yet he is not far from each one of us, for
+
+`In him we live and move and have our being';
+
+as even some of your poets have said,
+
+`For we are indeed his offspring.'
+
+Being then God’s offspring, we ought not to think that the Deity is like gold, or silver, or stone, a representation by the art and imagination of man.  The times of ignorance God overlooked, but now he commands all men everywhere to repent, because he has fixed a day on which he will judge the world in righteousness by a man whom he has appointed, and of this he has given assurance to all men by raising him from the dead.''
+\mysource{St. Paul}{Speech on Mars Hill, Acts 17}
+\vspace{1in}
+
+\firstword{Friends}, Romans, countrymen, lend me your ears;
+I come to bury Caesar, not to praise him.
+The evil that men do lives after them;
+The good is oft interred with their bones;
+So let it be with Caesar. The noble Brutus
+Hath told you Caesar was ambitious:
+If it were so, it was a grievous fault,
+And grievously hath Caesar answer'd it.
+Here, under leave of Brutus and the rest--
+For Brutus is an honourable man;
+So are they all, all honourable men--
+Come I to speak in Caesar's funeral.
+He was my friend, faithful and just to me:
+But Brutus says he was ambitious;
+And Brutus is an honourable man.
+He hath brought many captives home to Rome
+Whose ransoms did the general coffers fill:
+Did this in Caesar seem ambitious?
+When that the poor have cried, Caesar hath wept:
+Ambition should be made of sterner stuff:
+Yet Brutus says he was ambitious;
+And Brutus is an honourable man.
+You all did see that on the Lupercal
+I thrice presented him a kingly crown,
+Which he did thrice refuse: was this ambition?
+Yet Brutus says he was ambitious;
+And, sure, he is an honourable man.
+I speak not to disprove what Brutus spoke,
+But here I am to speak what I do know.
+You all did love him once, not without cause:
+What cause withholds you then, to mourn for him?
+O judgment! thou art fled to brutish beasts,
+And men have lost their reason. Bear with me;
+My heart is in the coffin there with Caesar,
+And I must pause till it come back to me.
+
+But yesterday the word of Caesar might
+Have stood against the world; now lies he there.
+And none so poor to do him reverence.
+O masters, if I were disposed to stir
+Your hearts and minds to mutiny and rage,
+I should do Brutus wrong, and Cassius wrong,
+Who, you all know, are honourable men:
+I will not do them wrong; I rather choose
+To wrong the dead, to wrong myself and you,
+Than I will wrong such honourable men.
+But here's a parchment with the seal of Caesar;
+I found it in his closet, 'tis his will:
+Let but the commons hear this testament--
+Which, pardon me, I do not mean to read--
+And they would go and kiss dead Caesar's wounds
+And dip their napkins in his sacred blood,
+Yea, beg a hair of him for memory,
+And, dying, mention it within their wills,
+Bequeathing it as a rich legacy
+Unto their issue.
+
+Have patience, gentle friends, I must not read it;
+It is not meet you know how Caesar loved you.
+You are not wood, you are not stones, but men;
+And, being men, bearing the will of Caesar,
+It will inflame you, it will make you mad:
+'Tis good you know not that you are his heirs;
+For, if you should, O, what would come of it!
+
+Will you be patient? will you stay awhile?
+I have o'ershot myself to tell you of it:
+I fear I wrong the honourable men
+Whose daggers have stabb'd Caesar; I do fear it.
+
+You will compel me, then, to read the will?
+Then make a ring about the corpse of Caesar,
+And let me show you him that made the will.
+Shall I descend? and will you give me leave?
+
+Nay, press not so upon me; stand far off.
+
+If you have tears, prepare to shed them now.
+You all do know this mantle: I remember
+The first time ever Caesar put it on;
+'Twas on a summer's evening, in his tent,
+That day he overcame the Nervii:
+Look, in this place ran Cassius' dagger through:
+See what a rent the envious Casca made:
+Through this the well-beloved Brutus stabb'd;
+And as he pluck'd his cursed steel away,
+Mark how the blood of Caesar follow'd it,
+As rushing out of doors, to be resolved
+If Brutus so unkindly knock'd, or no;
+For Brutus, as you know, was Caesar's angel:
+Judge, O you gods, how dearly Caesar loved him!
+This was the most unkindest cut of all;
+For when the noble Caesar saw him stab,
+Ingratitude, more strong than traitors' arms,
+Quite vanquish'd him: then burst his mighty heart;
+And, in his mantle muffling up his face,
+Even at the base of Pompey's statua,
+Which all the while ran blood, great Caesar fell.
+O, what a fall was there, my countrymen!
+Then I, and you, and all of us fell down,
+Whilst bloody treason flourish'd over us.
+O, now you weep; and, I perceive, you feel
+The dint of pity: these are gracious drops.
+Kind souls, what, weep you when you but behold
+Our Caesar's vesture wounded? Look you here,
+Here is himself, marr'd, as you see, with traitors.
+
+Good friends, sweet friends, let me not stir you up
+To such a sudden flood of mutiny.
+They that have done this deed are honourable:
+What private griefs they have, alas, I know not,
+That made them do it: they are wise and honourable,
+And will, no doubt, with reasons answer you.
+I come not, friends, to steal away your hearts:
+I am no orator, as Brutus is;
+But, as you know me all, a plain blunt man,
+That love my friend; and that they know full well
+That gave me public leave to speak of him:
+For I have neither wit, nor words, nor worth,
+Action, nor utterance, nor the power of speech,
+To stir men's blood: I only speak right on;
+I tell you that which you yourselves do know;
+Show you sweet Caesar's wounds, poor poor dumb mouths,
+And bid them speak for me: but were I Brutus,
+And Brutus Antony, there were an Antony
+Would ruffle up your spirits and put a tongue
+In every wound of Caesar that should move
+The stones of Rome to rise and mutiny.
+
+Why, friends, you go to do you know not what:
+Wherein hath Caesar thus deserved your loves?
+Alas, you know not: I must tell you then:
+You have forgot the will I told you of.
+
+Here is the will, and under Caesar's seal.
+To every Roman citizen he gives,
+To every several man, seventy-five drachmas.
+
+Hear me with patience.
+
+Moreover, he hath left you all his walks,
+His private arbours and new-planted orchards,
+On this side Tiber; he hath left them you,
+And to your heirs for ever, common pleasures,
+To walk abroad, and recreate yourselves.
+Here was a Caesar! when comes such another?
+\mysource{Mark Antony}{Shakespeare's Julius Caeser}
+\vspace{1in}
+
+\firstword{Be} seated.
+
+Men, this stuff that some sources sling around about America wanting out of this war, not wanting to fight, is a crock of bullshit.
+
+Americans love to fight, traditionally. All real Americans love the sting and clash of battle.
+
+You are here today for three reasons. First, because you are here to defend your homes and your loved ones. Second, you are here for your own self respect, because you would not want to be anywhere else.
+
+Third, you are here because you are real men and all real men like to fight.
+
+When you, here, everyone of you, were kids, you all admired the champion marble player, the fastest runner, the toughest boxer, the big league ball players, and the All-American football players. Americans love a winner. Americans will not tolerate a loser. Americans despise cowards.
+
+Americans play to win all of the time. I wouldn't give a hoot in hell for a man who lost and laughed. That's why Americans have never lost nor will ever lose a war; for the very idea of losing is hateful to an American.
+
+You are not all going to die. Only two percent of you right here today would die in a major battle. Death must not be feared. Death, in time, comes to all men. Yes, every man is scared in his first battle. If he says he's not, he's a liar. Some men are cowards but they fight the same as the brave men or they get the hell slammed out of them watching men fight who are just as scared as they are.
+
+The real hero is the man who fights even though he is scared.
+
+Some men get over their fright in a minute under fire. For some, it takes an hour. For some, it takes days. But a real man will never let his fear of death overpower his honor, his sense of duty to his country, and his innate manhood. Battle is the most magnificent competition in which a human being can indulge. It brings out all that is best and it removes all that is base. Americans pride themselves on being He Men and they ARE He Men.
+
+Remember that the enemy is just as frightened as you are, and probably more so. They are not supermen.
+
+All through your Army careers, you men have bitched about what you call 'chicken shit drilling'. That, like everything else in this Army, has a definite purpose. That purpose is alertness. Alertness must be bred into every soldier. I don't give a fuck for a man who's not always on his toes. You men are veterans or you wouldn't be here. You are ready for what's to come. A man must be alert at all times if he expects to stay alive. If you're not alert, sometime, a German son-of-an-asshole-bitch is going to sneak up behind you and beat you to death with a sockful of shit!
+
+There are four hundred neatly marked graves somewhere in Sicily, all because one man went to sleep on the job. But they are German graves, because we caught the bastard asleep before they did.
+
+An Army is a team. It lives, sleeps, eats, and fights as a team. This individual heroic stuff is pure horse shit. The bilious bastards who write that kind of stuff for the Saturday Evening Post don't know any more about real fighting under fire than they know about fucking! We have the finest food, the finest equipment, the best spirit, and the best men in the world. Why, by God, I actually pity those poor sons-of-bitches we're going up against. By God, I do.
+
+My men don't surrender, and I don't want to hear of any soldier under my command being captured unless he has been hit. Even if you are hit, you can still fight back That's not just bull shit either. The kind of man that I want in my command is just like the lieutenant in Libya, who, with a Luger against his chest, jerked off his helmet, swept the gun aside with one hand, and busted the hell out of the Kraut with his helmet. Then he jumped on the gun and went out and killed another German before they knew what the hell was coming off. And, all of that time, this man had a bullet through a lung. There was a real man!
+
+All of the real heroes are not storybook combat fighters, either. Every single man in this Army plays a vital role. Don't ever let up. Don't ever think that your job is unimportant. Every man has a job to do and he must do it. Every man is a vital link in the great chain.
+
+What if every truck driver suddenly decided that he didn't like the whine of those shells overhead, turned yellow, and jumped headlong into a ditch? The cowardly bastard could say, 'Hell, they won't miss me, just one man in thousands.' But, what if every man thought that way? Where in the hell would we be now? What would our country, our loved ones, our homes, even the world, be like?
+
+No, Goddamnit, Americans don't think like that. Every man does his job. Every man serves the whole. Every department, every unit, is important in the vast scheme of this war.
+
+The ordnance men are needed to supply the guns and machinery of war to keep us rolling. The Quartermaster is needed to bring up food and clothes because where we are going there isn't a hell of a lot to steal. Every last man on K.P. has a job to do, even the one who heats our water to keep us from getting the 'G.I. Shits'.
+
+Each man must not think only of himself, but also of his buddy fighting beside him. We don't want yellow cowards in this Army. They should be killed off like rats. If not, they will go home after this war and breed more cowards. The brave men will breed more brave men. Kill off the Goddamned cowards and we will have a nation of brave men.
+
+One of the bravest men that I ever saw was a fellow on top of a telegraph pole in the midst of a furious fire fight in Tunisia. I stopped and asked what the hell he was doing up there at a time like that. He answered, 'Fixing the wire, Sir.' I asked, 'Isn't that a little unhealthy right about now?' He answered, 'Yes Sir, but the Goddamned wire has to be fixed.' I asked, 'Don't those planes strafing the road bother you?' And he answered, 'No, Sir, but you sure as hell do!' Now, there was a real man. A real soldier. There was a man who devoted all he had to his duty, no matter how seemingly insignificant his duty might appear at the time, no matter how great the odds.
+
+And you should have seen those trucks on the rode to Tunisia. Those drivers were magnificent. All day and all night they rolled over those son-of-a-bitching roads, never stopping, never faltering from their course, with shells bursting all around them all of the time. We got through on good old American guts. Many of those men drove for over forty consecutive hours. These men weren't combat men, but they were soldiers with a job to do. They did it, and in one hell of a way they did it. They were part of a team. Without team effort, without them, the fight would have been lost. All of the links in the chain pulled together and the chain became unbreakable.
+
+Don't forget, you men don't know that I'm here. No mention of that fact is to be made in any letters. The world is not supposed to know what the hell happened to me. I'm not supposed to be commanding this Army. I'm not even supposed to be here in England. Let the first bastards to find out be the Goddamned Germans. Some day I want to see them raise up on their piss-soaked hind legs and howl, 'Jesus Christ, it's the Goddamned Third Army again and that son-of-a-fucking-bitch Patton'. We want to get the hell over there.' The quicker we clean up this Goddamned mess, the quicker we can take a little jaunt against the purple pissing Japs and clean out their nest, too. Before the Goddamned Marines get all of the credit.
+
+Sure, we want to go home. We want this war over with. The quickest way to get it over with is to go get the bastards who started it. The quicker they are whipped, the quicker we can go home. The shortest way home is through Berlin and Tokyo. And when we get to Berlin I am personally going to shoot that paper hanging son-of-a-bitch Hitler. Just like I'd shoot a snake!
+
+When a man is lying in a shell hole, if he just stays there all day, a German will get to him eventually. The hell with that idea. The hell with taking it. My men don't dig foxholes. I don't want them to. Foxholes only slow up an offensive. Keep moving. And don't give the enemy time to dig one either. We'll win this war, but we'll win it only by fighting and by showing the Germans that we've got more guts than they have; or ever will have.
+
+We're not going to just shoot the sons-of-bitches, we're going to rip out their living Goddamned guts and use them to grease the treads of our tanks. We're going to murder those lousy Hun cock suckers by the bushel-fucking-basket. War is a bloody, killing business. You've got to spill their blood, or they will spill yours. Rip them up the belly. Shoot them in the guts. When shells are hitting all around you and you wipe the dirt off your face and realize that instead of dirt it's the blood and guts of what once was your best friend beside you, you'll know what to do!
+
+I don't want to get any messages saying, 'I am holding my position.' We are not holding a Goddamned thing. Let the Germans do that. We are advancing constantly and we are not interested in holding onto anything, except the enemy's balls. We are going to twist his balls and kick the living shit out of him all of the time. Our basic plan of operation is to advance and to keep on advancing regardless of whether we have to go over, under, or through the enemy. We are going to go through him like crap through a goose; like shit through a tin horn!
+
+From time to time there will be some complaints that we are pushing our people too hard. I don't give a good Goddamn about such complaints. I believe in the old and sound rule that an ounce of sweat will save a gallon of blood. The harder WE push, the more Germans we will kill. The more Germans we kill, the fewer of our men will be killed. Pushing means fewer casualties. I want you all to remember that.
+
+There is one great thing that you men will all be able to say after this war is over and you are home once again. You may be thankful that twenty years from now when you are sitting by the fireplace with your grandson on your knee and he asks you what you did in the great World War II, you WON'T have to cough, shift him to the other knee and say, 'Well, your Granddaddy shoveled shit in Louisiana.' No, Sir, you can look him straight in the eye and say, 'Son, your Granddaddy rode with the Great Third Army and a Son-of-a-Goddamned-Bitch named Georgie Patton!'
+\mysource{General Patton}{D-Day Speech, June 1944}
+
+
+\chapter{Exercises}
+
+\chapter*{Rejected}
+\firstword{One} of the arguments against the compulsory study of Greek, namely, that it is wiser to give our time to modern languages and modern history than to dead languages and ancient history, involves, I think, a verbal fallacy. Only those languages can properly be called dead in which nothing living has been written.  If the classic languages are dead, they yet speak to us, and with a clearer voice than that of any living tongue.
+
+If their language is dead, yet the literature it enshrines is rammed with life as perhaps no other writing, except Shakespeare's, ever was or will be.  It is as contemporary with today as with the ears it first enraptured, for it appeals not to the man  of then or now, but to the entire round of human nature itself.
+\mysource{James Lowell}{Harvard 250th Anniversary Address}
+
+\firstword{When} in the Course of human events, it becomes necessary for one people to dissolve the political bands which have connected them with another, and to assume among the powers of the earth, the separate and equal station to which the Laws of Nature and of Nature's God entitle them, a decent respect to the opinions of mankind requires that they should declare the causes which impel them to the separation.
+
+We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.--That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, --That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness. Prudence, indeed, will dictate that Governments long established should not be changed for light and transient causes; and accordingly all experience hath shewn, that mankind are more disposed to suffer, while evils are sufferable, than to right themselves by abolishing the forms to which they are accustomed. But when a long train of abuses and usurpations, pursuing invariably the same Object evinces a design to reduce them under absolute Despotism, it is their right, it is their duty, to throw off such Government, and to provide new Guards for their future security. -- Such has been the patient sufferance of these Colonies; and such is now the necessity which constrains them to alter their former Systems of Government. The history of the present King of Great Britain is a history of repeated injuries and usurpations, all having in direct object the establishment of an absolute Tyranny over these States. To prove this, let Facts be submitted to a candid world.
+\mysource{US Congress}{Declaration of Independence}
+
+\end{document}

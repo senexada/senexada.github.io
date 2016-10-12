@@ -1,0 +1,97 @@
+<head profile="http://gmpg.org/xfn/11">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta>
+  <link rel='shortcut icon' href='favicon.ico' />
+    <title>What I learned from doing my taxes</title>
+    <style type="text/css" media="screen">
+      ul {
+        line-height: 1.6;
+      }
+         
+    </style>
+</head>
+
+<body>
+
+<h2>Tax Year 2015</h2>
+I learned that:
+
+<h4>Partnerships have many suboptimal properties, including super-tax rates</h4>
+
+<h4>Mark-to-Market Assets Are Doubly Bad</h4>
+Consider an asset that gains 30% over 3 years, but with volatility. As an example,
+<pre>
+  Year 1 =  +20%
+  Year 2 =  +20%
+  Year 3 =  -10%
+</pre>
+
+<p>Assume you are in a high bracket in a high-tax locale like nyc.  You invest $1000 in asset A,
+which has mark-to-market 60/40 LT/ST treatment, or asset B, which does not. </p>
+
+<p>In a simple case, you sell the asset at the end of year 3 while still in your high tax locale.
+We are using 50.5% and 33% for ST and LT rates (see 2014 notes below).
+<pre>
+  Asset A
+  Year     LT Gain  LT Tax  ST Gain  ST Tax
+  ====     =======  ======  =======  ======
+   1       200*0.6    40    200*0.4    40
+   2       240*0.6    48    240*0.4    48
+   3       -144*0.6  -29   -144*0.4   -29
+
+   TOTAL              59              59   = 118 tax
+</pre>
+
+<pre>
+  Asset B
+  Year     LT Gain  LT Tax  ST Gain  ST Tax
+  ====     =======  ======  =======  ======
+   1          0       0        0        0
+   2          0       0        0        0
+   3         300     100       0        0
+
+   TOTAL             100                   = 100 tax
+</pre>
+</p>
+
+<p>On its face, the tax difference is small: $18 on the $300 gain, or 6%.
+But the situation can deteriorate in many ways.  If you can hold asset B until
+in a low income year and locale, or if you donate B, you could reduce B's tax as far as $0.
+In that case, the tax rate difference is 39% vs. 0%.
+</p>
+
+<p>An additional hit can arise if you have other LT gains.  In the case that A's year 3 ST losses
+offset LT gains, the tax benefit of -29 is reduced to -19.  Thus A's effective tax rate becomes
+43%, verses B's effective rate of 0-33%.
+</p>
+
+
+<h2>Tax Year 2014</h2>
+I learned that:
+
+<h4>Lending Club income can be taxed at 70% or more</h4>
+Impossible, you say?
+<p>Say your net income is $1000 (your account balance went up by $1000).
+One possible breakdown (similar to my actual breakdown one year) is +2000 interest income and -1000 loan chargeoffs.
+</p>
+<p>
+The +2000 is fully taxed at your max rate, which in nyc can be as high as  39.6 + 3.8 + 8.97 + 3.5 = 55.87%
+(it's actually a bit less because the feds don't tax you on your state tax. So, it's more like 50.5%)
+The -1000 is a capital loss, which offsets long term cap gains at 20 + 3.8 + 8.97 + 3.5 = 36.27% (actually 33%, for the same reasons above).
+</p>
+
+<pre>
+   Tax on income = 2000 * 0.505 = 1010
+   Tax reduction from capital loss = 1000 * 0.33 = 330
+   Net taxes from Lending Club = 670
+</pre>
+
+<p>Your net income was 1000 and you paid 670 in extra taxes --> 67% tax rate.
+It can be worse if you already have net capital losses, in which case the capital loss benefit
+cannot be used until a future year.  Depending on the time until used, your choice of
+discount rate, and your locale/income when used, the capital loss "benefit" could be worth as
+little as zero (if your income is low enough to be in the 0% federal capital gains bracket and you
+live in a no-income-tax state).  In that worst case -- admittedly, an extreme scenario --
+ the Lending Club income was taxed at over 100% !
+</p>
+
+</body>

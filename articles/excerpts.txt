@@ -325,6 +325,10 @@ For a time I would feel I belonged still to a world of straightforward facts; bu
 I am sure that the Framers of the Constitution, aware of the 1457 edict of King James II of Scotland prohibiting golf because it interfered with the practice of archery, fully expected that sooner or later the paths of golf and government, the law and the links, would once again cross, and that the judges of this august Court would some day have to wrestle with that age-old jurisprudential question, for which their years of study in the law have so well prepared them: Is someone riding around a golf course from shot to shot really a golfer? The answer, we learn, is yes. The Court ultimately concludes, and it will henceforth be the Law of the Land, that walking is not a ``fundamental'' aspect of golf.
 \mysource{Antonin Scalia}{Dissent, PGA Tour v. Martin}
 
+\chapter{On Boldness}
+
+\firstword{When} the Boy Scout Movement started in America it had the good aggressive American motto, ``Be sure you're right, then go ahead,'' which was borrowed from that delightful old buckskin man, Davy Crockett.
+\mysource{Dan Beard}{Camp-Lore and Woodcraft, Ch 7}
 
 \chapter{On Hope}
 

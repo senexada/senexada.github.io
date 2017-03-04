@@ -1,0 +1,6 @@
+Directions:
+1. Download company list from nasdaq: 
+   http://www.nasdaq.com/screening/company-list.aspx
+   download the three csv files linked there (amex, nyse, nasdaq)
+2. Run v1.sh to reformat it, remove LPs & ETFs, etc.
+3. Sort the output of v1 by mktcap col (4): sort -t, -k 4,4 -nr

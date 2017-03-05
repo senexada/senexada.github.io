@@ -6,3 +6,18 @@ Directions:
    and remove mktcaps outside my limits.
 3. Sort the output of v1 by mktcap col (4): sort -t, -k 4,4 -nr
 4. Run v2.sh to get a text breakdown of industry representation.
+
+
+Specific steps I followed:
+a) To print text industry histogram: 
+    ./v1.sh *.csv | ./v2.sh
+b) To examine different modulo industry histograms:
+    ./v1.sh *.csv | sort -t, -k 4,4 -nr |\
+     awk -F, '{if (NR % 40 == 8) print}' | ./v2.sh
+c) Print selections to a text file:
+    (same as above, replacing v2 with redirect to file)
+    (filename is selections.yyyymmdd)
+d) Manually examine for exclusions like Trusts, etc.
+   Then start to buy!
+
+

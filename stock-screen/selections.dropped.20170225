@@ -1,0 +1,8 @@
+# Some automated selections need to be dropped upon final review:
+# they might be partnerships, they might have impending acquisitions, etc.
+# When I removed a stock from the automated selection list, I store it here
+# for future refernece, annotated with the reason it was dropped.
+# I then find the most suitable replacement from the full data set and insert
+# it into the selections file.
+LSCC,Lattice Semiconductor Corporation,6.99,850.72,n/a,Technology,Semiconductors,is amidst acquisition
+

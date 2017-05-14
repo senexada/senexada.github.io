@@ -90,6 +90,9 @@ Other links if the above image doesn't load:
 Line and point types</a>,
 <a href="http://ryukyu.astr.tohoku.ac.jp/pukiwiki/index.php?plugin=attach&refer=Members%2Fchinone%2F%B3%D0%BD%F1%2FGnuplot&openfile=colorsnames.png">colors</a>
 
+<h2>Word Counter</h2>
+(Discussed with Jae)
+<i>cat file | sed 's/[^a-zA-Z ]//g' | tr A-Z a-z | awk '{for (i=1; i <= NF; i++) {word[$i]++} } END {for (ww in word) print ww, word[ww];}' | sort -k 2,2 -nr | head</i>
 
 
 </body>

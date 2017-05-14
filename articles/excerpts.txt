@@ -32,6 +32,13 @@ SDG\\
 \firstword{Omit} needless words.  Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts. This requires not that the writer make all his sentences short, or that he avoid all detail and treat his subjects only in outline, but that every word tell.
 \mysource{Strunk \& White}{Elements of Style}
 
+\chapter{On Reading}
+\firstword{Yes}, there is a choice in books as in friends, and the mind sinks or rises to the level of its habitual society, is subdued, as Shakespeare says of the dyer's hand, to what it works in.  Cato's advice, \emph{cum bonis ambula}, consort with the good, is quite as true if we extend it to books, for they, too, insensibly give away their own nature to the mind that converses with them.  They either beckon upwards or drag down.
+
+We are apt to wonder at the scholarship of the men of three centuries ago and at a certain dignity of phrase that characterizes them. They were scholars because they did not read so many things as we. They had fewer books, but these were of the best. Their speech was noble, because they lunched with Plutarch and supped with Plato. We spend as much time over print as they did, but instead of communing with the choice thoughts of choice spirits, and unconsciously acquiring the grand manner of that supreme society, we diligently inform ourselves, and cover the continent with a cobweb of telegraphs to inform us, of such inspiring facts as that a horse belonging to Mr. Smith ran away on Wednesday, seriously damaging a valuable carry-all ; that a son of Mr. Brown swallowed a hickory nut on Thursday ; and that a gravel bank caved in and buried Mr. Robinson alive on Friday. Alas, it is we ourselves that are getting buried alive under this avalanche of earthy impertinences !
+
+\mysource{James Russell Lowell}{Address at the Chelsea MA library, 1885}
+
 \chapter{On Beauty}
 \firstword{For} in the arts, as in the sciences, the quest is after the same elusive quality: beauty. But what is beauty?
 

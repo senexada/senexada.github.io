@@ -17,6 +17,12 @@
         margin: 30px auto;
         line-height: 1.6;
       }
+      .quotetext {
+        max-width: 500px;
+	margin: 30px auto;
+	line-height: 1.2;
+        font-family:  'IM Fell English SC', cursive;
+      }
       .photo {
         display: block;
         margin: auto;

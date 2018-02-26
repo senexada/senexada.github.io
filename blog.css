@@ -38,6 +38,10 @@
          display: block;
          margin: auto;
       }
+      .photo video {
+         display: block;
+         margin: auto;
+      }
       hr {
          max-width: 150px;
          margin: auto;

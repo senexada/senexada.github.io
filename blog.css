@@ -20,8 +20,10 @@
       .quotetext {
         max-width: 550px;
 	margin: 30px auto;
-	line-height: 1.2;
-        font-family:  'IM Fell English SC', cursive;
+	line-height: 1.3;
+        font-sizse: 16px;
+        font-family: cursive;
+         #"Big Caslon";
       }
       .photo {
         display: block;

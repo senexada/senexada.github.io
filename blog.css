@@ -17,6 +17,12 @@
         margin: 30px auto;
         line-height: 1.6;
       }
+      .serioustext {
+        max-width: 550px;
+        margin: 30px auto;
+        line-height: 1.4;
+	font-family: Didot, Book Antiqua, serif;
+      }
       .quotetext {
         max-width: 550px;
 	margin: 30px auto;
@@ -24,6 +30,24 @@
         font-sizse: 16px;
         font-family: cursive;
          #"Big Caslon";
+      }
+      .quoteattrib {
+        text-align: right;
+        font-variant: small-caps;
+        font-size: 10px;
+      }
+      blockquote {
+        max-width: 510px;
+        margin: 30px auto;
+        line-height: 1.4;
+	font-family: Didot, Book Antiqua, serif;
+        display: block;
+        margin: auto;
+	border: 1px solid #ddd;
+	background-color: #f3f3f3;
+        padding: 14px;
+        font-size: 14px;
+        margin-bottom: 30px;
       }
       .photo {
         display: block;

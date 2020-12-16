@@ -124,6 +124,9 @@ Work and despair not.'' \\
 
 \mysource{Johann Goethe}{The Mason}
 
+\firstword{The} wiser kind of man will find, in short, that the crooked things he has got to pull straight in his own life all round him, wherever he may go, are manifold, and will task all his strength, however great it be.  But why should I complain of that either? For that is the thing a man is born to, in all epochs.  He is born to expend every particle of strength that God Almighty has given him, in doing the work he finds he is fit for.
+\mysource{Thomas Carlyle}{Inaugural Address at Edinburgh, 2 April 1866}
+
 
 \chapter{On Drudgery}
 \firstword{It} is the fate of those who toil at the lower employments of life, to be rather driven by the fear of evil, than attracted by the prospect of good; to be exposed to censure, without hope of praise; to be disgraced by miscarriage, or punished for neglect, where success would have been without applause, and diligence without reward.
@@ -221,6 +224,10 @@ And when all comes to all, what is our failure to be reckoned? Six men drifting 
 
 \firstword{Since} I come to Mississippi I's been right here at dis place fifty-one years de 12th day November, 1937. I's allus farmed fo' a livin' an' has also bottomed chairs, made baskets an' built dirt chimneys. They ain't many folks my age [97] what'll get far 'nuff off de ground to build a chimney. De Lord takes care o' me tho'. Heep o' folks I's worked fo' ain't never paid me but dats up to dem an' de Lord. They de one what'll have to give account fo dat. Christ say when ever we do de thin' right no evil shall rest upon you.
 \mysource{Henry Murray}{WPA Slave Narratives (Mississippi)}
+
+\firstword{If} the man gets meat and clothes, what matters it whether he buy those necessaries with seven thousand a year, or with seven million, could that be, or with seventy pounds a year? He can get meat and clothes for that; and he will find intrinsically, if he is a wise man, wonderfully little real difference.
+\mysource{Thomas Carlyle}{Inaugural Address at Edinburgh, 2 April 1866}
+
 
 \chapter{On Government}
  \firstword{We} are all familiar with the basic difference between English and French parliamentary institutions; copied respectively by such other assemblies as derive from each. We all realize that this main difference has nothing to do with national temperament, but stems from their seating plans.
@@ -435,6 +442,9 @@ A frequent and attentive prospect of that moment, which must put a period to all
 
 In this God's-world, with its wild-whirling eddies and made foam-oceans, where men and nations perish as if without law, and judgment for an unjust thing is sternly delayed, dost thou think that there is therefore no justice?  It is what the fool hath said in his heart. It is what the wise, in all times, were wise because they denied, and knew forever not to be.  I tell thee again, there is nothing else but justice.
 \mysource{Thomas Carlyle}{Past and Present}
+
+\firstword{In} the tragedies of Sophocles there is a most deep-toned recognition of the eternal justice of Heaven, and the unfailing punishment of crime again the laws of God. I believe you will find in all histories of nations, that this has been at teh origin and foundation of them all; and that no nation which did not contemplate this wonderful universe with an awe-stricken and reverential belief that there was a great unknown, omnipotent, and all-wise and all-just Being, superintending all men in it, and all interest in it, -- no nation ever came to very much, nor did any man either, who forgot that.  If a man did forget that, he forgot the most important part of his mission in this world.
+\mysource{Thomas Carlyle}{Inaugural Address at Edinburgh (2 April 1866)}
 
 \chapter{Great Speeches}
 

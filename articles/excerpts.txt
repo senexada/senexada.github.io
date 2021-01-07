@@ -32,6 +32,9 @@ SDG\\
 \firstword{Omit} needless words.  Vigorous writing is concise. A sentence should contain no unnecessary words, a paragraph no unnecessary sentences, for the same reason that a drawing should have no unnecessary lines and a machine no unnecessary parts. This requires not that the writer make all his sentences short, or that he avoid all detail and treat his subjects only in outline, but that every word tell.
 \mysource{Strunk \& White}{Elements of Style}
 
+\firstword{I} ceased in the year 1764 to believe that one can convince one's opponents with arguments printed in books. It is not to do that, therefore, that I have taken up my pen, but merely so as to annoy them, and to bestow strength and courage on those on our own side, and to make it known to the others that they have not convinced us.
+\mysource{Georg Christoph Lichtenberg}{The Waste Books, Notebook E, 33}
+
 \chapter{On Reading}
 \firstword{Yes}, there is a choice in books as in friends, and the mind sinks or rises to the level of its habitual society, is subdued, as Shakespeare says of the dyer's hand, to what it works in.  Cato's advice, \emph{cum bonis ambula}, consort with the good, is quite as true if we extend it to books, for they, too, insensibly give away their own nature to the mind that converses with them.  They either beckon upwards or drag down.
 

@@ -22,6 +22,23 @@ Decrypt:
   openssl des3 -d -in foo.des3 -out foo
 </pre>
 
+<h2>wget</h2>
+Scrape my webpage to a local mirror:
+<pre>
+wget -p -k -o wget.log -w 5 --random-wait -r -l 5 -H -e robots=off -Dsmugmug.com,senexada.github.io https://senexada.github.io/jeff.html
+</pre>
+
+This flag made it too slow, so I removed: <i>--limit-rate=100k </i><br/>
+These flags make it wait 5 +/- random seconds between requests: <i>-w 5 --random-wait</i><br/>
+These flags tell it to get files necessary to render, and convert links to local: <i>-p -k</i><br/>
+These flags tell it to recurse with a max depth: <i>-r -l 5</i><br/>
+These flags tell it to log to a file: <i>-o wget.log</i><br/>
+These flags tell it to grab files from these domains only, ignoring robots.txt:
+<i> -H -Dsmugmug.com,senexada.github.io -e robots=off</i><br/>
+
+
+
+
 <h2>Synology</h2>
 Finder -> Go -> Connect To Server (apple-K) -> smb://Muir <br/>
 (alternative, maybe try afp://Muir)

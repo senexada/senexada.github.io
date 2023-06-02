@@ -12,6 +12,10 @@
         max-width: 850px;
         margin: auto;
       }
+      .narrowtable {
+        max-width: 400px;
+        margin: auto;
+      }
       .regtext {
         max-width: 550px;
         margin: 30px auto;

@@ -39,6 +39,8 @@ These flags tell it to grab files from these domains only, ignoring robots.txt:
 
 <h2>Setting up new Macbook</h2>
 <ul>
+  <li>Change keyboard repeat rate to max</li>
+  <li>Change trackpad scroll direction and disable gestures</li>
  <li>Change default shell to bash: <i>chsh -s /bin/bash</i></li>
  <li>Install git: <i>git help</i>, then allow mac to auto-install</li>
  <li>Install homebrew: <i>/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"</i> (see https://brew.sh)</li>
@@ -46,7 +48,10 @@ These flags tell it to grab files from these domains only, ignoring robots.txt:
  <li>Clone git: <i>git clone https://github.com/senexada/senexada.github.io.git senexada.github.io</i></li>
  <li>Do a git push and generate new Personal Access Token: log into github, click upper right photo, Settings,
    Developer Settings, Personal Access Token, Tokens (classic), Generate new token.  Copy token and use it as
-   password when doing a git push</li>
+   password when doing a git push. Git will store it, so subsequent pushes will "just work."</li>
+ <li>
+ <li>Setup .bashrc: <i>echo "source ~/.bashrc" > ~/.bash_profile</i> - <i>cp dotfiles/.bashrc ~/.bashrc</i></li>
+   
 </ul>
 
 

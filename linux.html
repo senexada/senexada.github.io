@@ -12,14 +12,23 @@
 
 <body>
 
-<h2>DES</h2>
+  <h2>Mac Zip</h2>
+  <pre>
+    > zip -er foo.zip file1 file2
+    > unzip foo.zip
+  </pre>
+  
+
+  
+  <h2>DES</h2>
+  DO NOT USE -- does not preserve backwards compatibility!!!
 Encrypt:
 <pre>
-  openssl des3 -in foo -out foo.des3
+  (DO NOT USE) openssl des3 -in foo -out foo.des3
 </pre>
 Decrypt:
 <pre>
-  openssl des3 -d -in foo.des3 -out foo
+  (DO NOT USE) openssl des3 -d -in foo.des3 -out foo
 </pre>
 
 <h2>wget</h2>

@@ -6,8 +6,53 @@
     margin: 1em 0;
     color: #333;
   }
+  code {
+      background-color: #e5e5e5;
+      font-family: monospace;
+  }
 </style>
 <h2>2025-06</h2>
+
+<hr />
+
+<p>2025-06-07</p>
+
+<h3>OpenSSL stuff</h3>
+
+<p>Years ago I encrypted some files with openssl des3:
+<code>openssl des3 -i foo -o foo.des3</code></p>
+
+<p>Trying to decrypt in 2025 on a macbook, it failed with <em>bad decrypt</em>, even when
+I had the right password.</p>
+
+<p>It took an hour or so with AI to figure this out.</p>
+
+<ul>
+<li>it suggested various options to openssl, like <code>-legacy</code> or <code>-provider legacy</code> --> these all failed</li>
+<li>it suggested I <code>brew install openssl@1.1</code> --> macbook failed to install: "not supported"</li>
+<li>it suggested running in docker --> this actually worked. Steps below.</li>
+</ul>
+
+<h4>The docker steps that actually worked:</h4>
+
+<ul>
+<li>download docker from <code>docker.com</code></li>
+<li>install docker</li>
+<li>create a docker instance:
+<ul>
+<li><code>mkdir tmp; cd tmp</code></li>
+<li>(copy files into tmp)</li>
+<li><code>docker run --rm -it -v "$PWD":/data ubuntu:20.04 bash</code></li>
+<li>install openssl 1.1: <code>apt update &amp;&amp; apt install -y openssl</code></li>
+<li>confirm it is 1.1.1f: <code>cd /data; openssl version</code></li>
+<li>actually decrypt using md5: <code>openssl des3 -d -in foo.des3 -out foo -md md5</code></li>
+<li>(it took a while to figure out the md5 thing; without it you still get <em>bad decrypt</em>)</li>
+<li>(useful trick from ai: use <code>-out /dev/null</code> to isolate password handling from decryption;
+if <em>bad decrypt</em> when using <em>/dev/null</em>, then password is wrong, file is corrupted, or
+there was an additional <em>-salt</em> flag or custom digest. AI suggested that custom digest
+might have been md5 back then. I tried it and it worked)</li>
+</ul></li>
+</ul>
 
 <hr />
 
@@ -28,6 +73,9 @@
 <li>based on Codex Vaticanus</li>
 <li>(above data from <a href="https://en.m.wikipedia.org/wiki/Apostolic_Bible_Polyglot">wiki page</a></li>
 <li><a href="https://www.apostolicbible.com/text.htm">web page with downloads</a> -- some texts free, some nominal cost (a few dollars)</li>
+<li><a href="data-files/2025/06/ABP-Septuagint-OT.pdf">local ABP Septuagint OT</a></li>
+<li><a href="data-files/2025/06/ABP-Septuagint-NT.pdf">local ABP Septuagint NT</a></li>
+<li><a href="data-files/2025/06/ABP-Septuagint-Concordance.pdf">local ABP Greek concordance (with Strong numbers)</a></li>
 </ul></li>
 <li><p><strong>Other possible concordances</strong></p>
 

@@ -138,11 +138,12 @@ Free Chlorine, temperature, etc.</li>
 <li>(requires login) use google drive</li>
 <li>download from laptop by serving http on laptop
 <blockquote>
-  <p>$ python3 -m http.server</p>
+  <p>$ python3 -m http.server   <em>_// maybe include --bind 0.0.0.0 _</em></p>
 
 <p>$ ifconfig | grep inet</p>
 
-<p>(then on DC-1, point browser to ip:port)</li>
+<p>(then on DC-1, point browser to ip:port)
+(be sure DC-1 is on same network as laptop -- guest vs regular)</li>
 </ul></li>
 </ul></p>
 

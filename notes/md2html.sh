@@ -1,6 +1,6 @@
 #!/bin/sh
 
-for file in 2025/*.md
+for file in 202?/*.md
 do
     hfile=`echo $file | sed 's/\.md$/.html/'`
     echo "Converting '$file' --> '$hfile'"

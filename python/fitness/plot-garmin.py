@@ -15,6 +15,16 @@ file_path = sys.argv[1]
 ratios = []
 x = []
 
+def pace_to_decimal(pace_str):
+    try:
+        m, s = pace_str.strip().split(":")
+        return float(m) + float(s)/60
+    except:
+        return None
+
+def norm_to_hr135(pace, actualhr):
+    return pace * (actualhr - 50) / (135 - 50)
+
 with open(file_path, newline="") as f:
     reader = csv.DictReader(f)
     rows = list(reader)
@@ -29,13 +39,15 @@ with open(file_path, newline="") as f:
                 continue   # treadmill in garmin ignores incline, thus fundamentally broken
             max_hr = float(row["Max HR"])
             avg_hr = float(row["Avg HR"])
+            avg_pace = pace_to_decimal(row["Avg Pace"])
             avg_power = float(row["Avg Power"])
 
             if max_hr <= 142 and avg_hr > 0:
                 if debug:
                    print(row)
                 else:
-                   ratios.append(avg_power / avg_hr)
+                   #ratios.append(avg_power / avg_hr)
+                   ratios.append(norm_to_hr135(avg_pace, avg_hr))
                    x.append(i)
                    i += 1
 
@@ -51,7 +63,10 @@ if debug:
 
 plt.plot(x, ratios)
 plt.ylim(0, 1.1*max(ratios))
-plt.title("Power / HR Efficiency (Max HR ≤ 142)")
+#plt.title("Power / HR Efficiency (Max HR ≤ 142)")
+plt.title("Pace normed to HR135 (Max HR ≤ 142)")
 plt.xlabel("Filtered Runs")
-plt.ylabel("Avg Power / Avg HR")
+#plt.ylabel("Avg Power / Avg HR")
+plt.ylabel("Pace normed to HR135")
+plt.grid(True)
 plt.show()

@@ -1,0 +1,88 @@
+<style>
+  blockquote {
+    border: 3px solid #555;
+    background-color: #f0f0f0;
+    padding: 10px 15px;
+    margin: 1em 0;
+    color: #333;
+  }
+  code {
+      background-color: #e5e5e5;
+      font-family: monospace;
+  }
+</style>
+<h2>2026-06</h2>
+
+<hr />
+
+<p>2026-06-27</p>
+
+<h3>WA backpacking research</h3>
+
+<ul>
+<li><p>Great photos of Lake Byrne and Glacier Peak -- <a href="https://www.mountainphotography.com/photo/lake-byrne-hammock-sunrise/">mountainphotography.com</a></p></li>
+<li><p>Lake Chelan Sawtooth (east of Lake Chelan) partial map -- <a href="https://lakechelan.com/wp-content/uploads/2017/12/Sawtooth_Map.pdf">link</a></p></li>
+<li><p>West Fork Buttermilk trail (Lake Chelan Sawtooth area) -- 7.5 iles, 3600' from trailhead to Fish Creek Pass --
+<a href="https://www.wta.org/go-hiking/hikes/west-fork-buttermilk-river">wta.org page</a></p>
+
+<blockquote>
+  <p>Drive 11 miles west on the Twisp River Road and turn left to cross Buttermilk Bridge. 
+Stay left here. The East Fork Buttermilk Road becomes FR 43. Continue down this road 
+for about 4 miles and turn right onto FR4300-500, following the road for about 3 miles 
+to the trailhead at the end of the road.</p>
+</blockquote></li>
+<li><p>Downey Creek to Bachelor Creek to Itswood and Cub Lakes (southern end of Ptarmigan Traverse, in Glacier
+Peak Wilderness) -- <a href="https://www.wta.org/go-hiking/hikes/downey-creek">WTA on Downey Creek</a> -- 6.6 miles, 1280' one way. Take Suiattle River
+Road approx 20 miles from Highway 530. Road currently washed out at mile 4.5 (Summer 2026).
+<a href="https://www.fs.usda.gov/r06/mbs/recreation/downey-creek-trailhead">National Forest page for Downey Creek</a></p></li>
+<li><p>Alpine Lakes Wilderness -- <a href="https://www.fs.usda.gov/r06/mbs/recreation/alpine-lakes-wilderness-mt-baker-snoqualmie">national forest landing page</a> -- West Fork Foss Trail <a href="https://www.fs.usda.gov/r06/mbs/recreation/west-fork-foss-lakes-trailhead">page</a></p></li>
+<li><p>Alpine Lakes Enchantments -- <a href="https://www.fs.usda.gov/r06/okanogan-wenatchee/recreation/enchantments">nf landing page</a> -- <a href="https://www.fs.usda.gov/sites/nfs/files/legacy-media/okanogan-wenatchee/Topo%20map%20of%20Enchantment%20Zones%20large.jpg">Enchantment permit zones</a>
+<img src="https://www.fs.usda.gov/sites/nfs/files/legacy-media/okanogan-wenatchee/Topo%20map%20of%20Enchantment%20Zones%20large.jpg" alt="Enchantment Zones" />  </p></li>
+</ul>
+
+<h3>Austin trail running maps and links</h3>
+
+<ul>
+<li>Pace Bend <a href="https://parks.traviscountytx.gov/images/docs/Pace_Bend_Park_Trail_Map.pdf">trail map</a> -- <a href="data-files/2026/06/pace-bend-map.pdf">local copy</a></li>
+</ul>
+
+<h3>Misc</h3>
+
+<ul>
+<li><p>The legendary Fast Inverse Square Root -- <a href="https://medium.com/hard-mode/the-legendary-fast-inverse-square-root-e51fee3b49d9">medium article</a> --</p>
+
+<blockquote>
+  <p>float Q_rsqrt( float number ) 
+{ 
+ long i; 
+ float x2, y; 
+ const float threehalfs = 1.5F; </p>
+
+<p>x2 = number * 0.5F; 
+ y  = number; 
+ i  = * ( long * ) &y;    // evil floating point bit level hacking 
+ i  = 0x5f3759df - ( i >> 1 );               // what the fuck? <br />
+ y  = * ( float * ) &i; 
+ y  = y * ( threehalfs - ( x2 * y * y ) );   // 1st iteration 
+ //  y  = y * ( threehalfs - ( x2 * y * y ) );   // 2nd iteration, 
+                                           // this can be removed </p>
+
+<p>return y; 
+}</p>
+</blockquote></li>
+<li><p>Fast Inverse Square Root -- <a href="https://www.lomont.org/papers/2003/InvSqrt.pdf">mathematical explanation</a> --
+<a href="data-files/2026/06/fast-inv-sqrt.pdf">local copy</a></p></li>
+<li><p>US Supreme Court, Buck v Bell (274 US 200, 1927) -- <a href="https://supreme.justia.com/cases/federal/us/274/200/">decision</a> --</p>
+
+<blockquote>
+  <p>We have seen more than once that the public welfare may call upon the best citizens 
+for their lives. It would be strange if it could not call upon those who already sap 
+the strength of the State for these lesser sacrifices, often not felt to be such by 
+those concerned, in order to prevent our being swamped with incompetence. It is better 
+for all the world if, instead of waiting to execute degenerate offspring for crime 
+or to let them starve for their imbecility, society can prevent those who are manifestly 
+unfit from continuing their kind. The principle that sustains compulsory vaccination 
+is broad enough to cover cutting the Fallopian tubes. Jacobson v. Massachusetts, 197 U. S. 11. 
+Three generations of imbeciles are enough.</p>
+</blockquote></li>
+</ul>
